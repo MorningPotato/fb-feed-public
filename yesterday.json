@@ -1,11 +1,5 @@
 {
   "date_kst": "2026-01-10",
-  "generated_at_kst": "2026-01-11T20:37:59.229301+09:00",
-  "items": [
-    {
-      "name": "나경원",
-      "page_id": "100066914319197",
-      "error": "400 Client Error: Bad Request for url: https://graph.facebook.com/v19.0/100066914319197/published_posts?fields=message%2Ccreated_time%2Cpermalink_url&since=2026-01-10T00%3A00%3A00%2B09%3A00&until=2026-01-11T00%3A00%3A00%2B09%3A00&limit=100&access_token=EAATssnkREngBQcl0TZBUJGwznF1FXLnSd0oJ4LAqgCku6gB71iWuTx733fl3ZBw9lLbQh3NtAEHPVgfAvwY3fW4Q6Cz37O4TzE6JcwAZBx0nClMgPPBV1Qv8rxxYpF0hXa7UhtKD1GCIWXW0ZCUwMOZCnf4PabkQy3d2mndEZCuekoT3f0zMCwVHukGNOwaQXHw3AYWct2rnWiJgpZCUVH3vvyTZBeakVXBUQqLNdbKSiW4pl5d9QPTOTK5r4HTSKlJOLbibIeiY2Xc24U1AgD5eyZBrNaVuQBr5pBhZCUSAD4JWG9sy2znfKoHDcpHjNtaHo1ObYVvzWSOOGr8gZDZD"
-    }
-  ]
+  "generated_at_kst": "2026-01-11T21:25:22.403682+09:00",
+  "items": []
 }
