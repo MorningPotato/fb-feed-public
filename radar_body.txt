@@ -1,558 +1,158 @@
-키워드 레이더·변동(01.10) : 국회의원 / 민주당
+키워드 레이더(01.11)
 
-오늘의 신호(한줄)
-- 어제는 ‘국회의원, 민주당, 미래를 이야기하다’ 같은 공통 프레임이 눈에 띄었어요. 아래는 전일자 기사에서 반복된 **단어/프레임**만 정리했어요.
-
-────────────────────────
-[오늘의 공통 키워드] (3명 이상에서 겹친 프레임)
-- 국회의원 · 민주당 · 미래를 이야기하다 · 토크콘서트 · 국회의원 금융이
+- 기준: 전일 기사 10건 이상 인물만
+- 표기: 키워드 Top7 + 대표 링크 1개
 
 ────────────────────────
-[키워드 레이더] 인물별 Top3 (전일 기사 기반)
 
-1) 백승아 (기사 27건)
-- Top3: 사법부 무능이 / 윤리심판원서 김병기 / 조희대 사법부
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+1) 문정복 (기사 100건)
+- Top7: 민주당 최고위원 / 최고위원 보궐선거 / 최고위원에 / 최고위원 강득구 / 최고위원 선출 친청 / 최고위원 후보자 / 원내대표 한병도
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WUklRdTh3RC0wcDNNbnlRdW5qdGgzRkEtQ2RMVE9DT2ZUQ0tWck1pYVNTTWZDTHZIUWRXaWZZcTU5bGZkOTJWOG5WMHpjYzBuZlhybElScVRFVmM?oc=5
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BLWllQnNRVTBHME5zdlJQMkRwbTBZX3FLcUx5T3hHTjljWDdvMkNWMGRleUxoUjlaenNlSkc2M3hibzhhTXlPNUl2UFFFYU9DX0gwZ2ZXd21RanJGWFE0Z2QzZ0U0MFdG?oc=5
 
-2) 배현진 (기사 26건)
-- Top3: 불나방 학력 콤플렉스 / 미저리 불나방 학력 / 홍준표 미저리
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+2) 강득구 (기사 99건)
+- Top7: 민주당 최고위원 / 최고위원에 이성윤 문정복 / 최고위원 보궐선거 / 최고위원 후보자 / 최고위원 선출 정청래 / 승리 새 최고위원에 / 최고위원 선출 친청
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWQ21XOEc1VFRfdzRUNVdCdkc5TUdtM0xRZDJrVGg2ejJSSmtqNzZiTWpYOExiU2JKTXpaT0tpbTFEVjUyTmVCeDhZRGx2Y1k?oc=5
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BLWllQnNRVTBHME5zdlJQMkRwbTBZX3FLcUx5T3hHTjljWDdvMkNWMGRleUxoUjlaenNlSkc2M3hibzhhTXlPNUl2UFFFYU9DX0gwZ2ZXd21RanJGWFE0Z2QzZ0U0MFdG?oc=5
 
-3) 김교흥 (기사 13건)
-- Top3: 출판기념회 / 출마모드 / 인천시장
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+3) 이성윤 (기사 99건)
+- Top7: 민주당 최고위원 / 최고위원에 / 최고위원 후보자 / 최고위원 보궐선거 / KBC 광주방송 / 최고위원 강득구 / 최고위원 당선된
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zdmxKaWNONUp4SWJsODVYbko1d256Y0Z6NlpEVW5UZWVBaHJmOWZmaHQtMzBXdEh0SnMzV0VkcE5zLUNoclREZnBEWnBZSjBtRmx6U1FiLTdydw?oc=5
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BLWllQnNRVTBHME5zdlJQMkRwbTBZX3FLcUx5T3hHTjljWDdvMkNWMGRleUxoUjlaenNlSkc2M3hibzhhTXlPNUl2UFFFYU9DX0gwZ2ZXd21RanJGWFE0Z2QzZ0U0MFdG?oc=5
 
-4) 김민석 (기사 10건)
-- Top3: 총리직 제안한 / 유승민에 총리직 / 총괄 유승민 총리직
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+4) 정청래 (기사 92건)
+- Top7: 진출한 백혜련 한병도 / 민주당 / 최고위원 / 백혜련 한병도 원내대표 / 원내대표 후보와 / 원내대표 후보들 / 후보들과 인사하는
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMidEFVX3lxTFBSWkJfRDAwdm1NYlVKRDVwejJGR005XzhKZ3phbXp1S25ieVJOTks3WWFMbU51MDFBOG0zS0t3dFp1YnAxaTZ0V2hLTnBpOHhZTDFBQi1uUm9rclh2VC1RX1E5Q0hDM3lUSjJ0TTQtQkxZVzJ1?oc=5
+https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMRThpQ2x6SlZMejdQSEpoWnBTc3JPVlphN3JIZVZTMnNFd0FiYVZZNm5Jd2tGSll0N1h3dnBVa0tHU0IzLUlXdk0xNEQ1eW9tMlVMN3JNd0NpdVBVc0HSAYMBQVVfeXFMT3A4OThIUHBzc05COVU5QkdlaUk1TjZGUU1JdVphZ196T0pxcC1jY0gwSmo4MkNmcWJsbWowOGdOcnhsdTBfVHIwMkJOWDhERHpjQmxraFhybzdFUDVHUFE5V081N3ZlSWRldVcwUVEtOXFSODdrM2tkRk9KSnhaaDUtcnc?oc=5
 
-5) 김선교 (기사 7건)
-- Top3: 특검에 피의자로 / 당원협의회 신년연수 의정보고회 / 여주 양평 당원협의회
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+5) 백혜련 (기사 90건)
+- Top7: 민주당 원내대표 / 원내대표 보궐선거 / 원내대표 후보와 / 정청래 민주당 / KBC 광주방송 / 원내대표 후보들 / 원내대표에 한병도 결선서
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9PUXBwYXNyV2lzSGgza0pUakZxeUR6YmtCdGtLWkp4ZnVSaHpZQ3UxNkFBcVNhVkFoTXcweXNrbFNWdTTSAV9BVV95cUxNSG9Ec0hEWGtJejJFdGhfM2paWkJ1aUExQmJpU1VwV0pWOXpxbzRNN3dZZTNsZzdLeG9XSHRzSHllZ0hoSnJzSU8zaEVlTWd6WTRkRHhJMXVUWHNaYmJhWQ?oc=5
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OS0xtTDY3aXlfRUM1YnBjdVZKN0hIXzVGaVpBY0ZRWHVhejkwcjFfcWI4TnFCb00zVEFSOEZZUi04OU9nVHAxQUNCMDVDMzRBWk94V1R1RE9mYnNLMndNcm5BWVNDbVJm?oc=5
 
-6) 김문수 (기사 6건)
-- Top3: 국회의원 말이 / 강조 국민주권시대 / 추진 정년연장법
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+6) 한병도 (기사 90건)
+- Top7: 민주당 원내대표 / 원내대표 보궐선거 / 원내대표에 / 더불어민주당 / 원내대표 국힘도 / 원내대표 선출에 / 글로벌뉴스통신 GNA
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiakFVX3lxTE1sVzVyMGI3MENDdlQzUUZCU3lmMXRpdWNLSksydzRqa1pEWUUxblVKSWJsOHQ3R0lkOFE0TThoaGZ0OFhRZFBzWDJDOGpNS1l2M1JzVzgwYVdvRjk2V1VqbURNTXB1elEtTkE?oc=5
+https://news.google.com/rss/articles/CBMia0FVX3lxTFB1emJXSGhwNm1Fck9ueDdYMGdHNTVwd3liMjJRY0RSdnJYdEJtdHpkdmljbDQxQThMZ25wdFBibmw5U0xUa1hRZjhXdGhzSVNzQ2l0VXd3aDN5T1NxN0Y0eTlxakdFci1zME1B0gFvQVVfeXFMUGstb1hwVnJ0d3hvZXlsOW5ZbFItV1ZxSHRLamZNWUJyNkpneWJwQ0RTZExZT1FmaXNMNlp6QjFXVVRPTi1qSkluRHE0ZW8xQU02WjhTODBJQlM0LXY5OWpUajB1cXR1N3lzWjdocU5V?oc=5
 
-7) 박성훈 (기사 6건)
-- Top3: 안보관 내로남불에 / 내로남불에 무원칙 / 민주당 논리라면
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+7) 이준석 (기사 89건)
+- Top7: 연석회담 / 장동혁 / 제안에 / 조건 / 개혁신당 / 넥타이 러브콜 / 제안 민주당 돈공천 통일교
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3Y3pKQThpUW5VWXpWV2NWblA2S1QwVDl6M2VVX2k4eC1OcERBSDFPLU1Ea2o4SDlKVFBXU3IwaHo1dERrRUhZRlctd0RYd05ZQ2dV?oc=5
+https://news.google.com/rss/articles/CBMia0FVX3lxTE10cVFlQXhycmRpOEVsQVFJMmJKUktraU9CUDBBNVg5TzZMQW04N1Z4VXZYNXoxSXNIWEJGRzRZdm84S0JFMEp1VjFsVV90M21NU09mZHl5eUdhcHdqdU5xSEo4LXQ0S051NFJv0gFUQVVfeXFMTzM5bkhGZnc3WU9pRE5iM0w5U0VJeUtienY2MGRzaXVsTHQ0NUtlbzhxVkpsZWtxT1ZxMFMyNHdjLUlMS2F4UC0yd2x3bkNOSXlUNzJi?oc=5
 
-8) 임오경 (기사 6건)
-- Top3: 여자부 개막전 / 광명서 핸드볼 / 개막전 시구자로
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+8) 조국 (기사 84건)
+- Top7: 이준석 / 연석회담 / 제안에 / 장동혁 / 혁신당 / 제안 민주당 돈공천 통일교 / 일으키겠다 지방의회
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qdVExTHVaSkM2ZjFCdmZpbE9pcHBjY1gwSy1PMTBWX1JVclZNb2hWOWM0bWNKb21ZUzlJRWoybTdoUjc5OExTMmlzYjJIZUp6cE5tZ2RMZ2xWM2NXUmfSAWNBVV95cUxNZWotR1lFd2JOeWNiX1M0MElQc0xodlhIYTVQdUVLV0FGVzhXNFpKcms1SWNaUHZHVVIyVFkyb3VyN2Vfa0F6dlc5S29FVVZLdnJrU181aUFhNFphZVp4S0g0MUE?oc=5
+https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHc0V2enBUZVc5dU96RVZsSXJHSDhZc1B4RWl0alV5dFM3a293cFF4SVN3OW0xcDBheUptMWY0MHJqVTZ4eDZBRDl6OXBaQXdm?oc=5
 
-9) 장철민 (기사 6건)
-- Top3: 미래를 이야기하다 / 사퇴하라 훈식이형 / 백준모 대전서 청년 통합
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+9) 강선우 (기사 83건)
+- Top7: 주거지 압수수색 / 공천헌금 / 시의원 / 입국 성실히 조사에 / 저녁께 귀국 경찰 / 앞당겨 / 귀국 언제 조사받나
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMickFVX3lxTE1TYm04WFVmWWpQZlJjc1d4LVBaN01SYjR0clhjODlUYmo1eWQtV2dHS3pGTVlTTjdjenJ4d2ZIQmI2R3BmeGwyMjdDRml0LXdPd01zbUlsdHBtWVBabVBhS3VGMXpTcV9mc2htRWp0bFRkQQ?oc=5
+https://news.google.com/rss/articles/CBMiakFVX3lxTE1pMERDU3BlVUJNRTVpakE5bHFOMEhTcmZVWk9EOFNGUGI0N1dEWWwxNWFHSDRiVUUwYmhUTTd6TF9xMkw2Vk4yZ3lYVXdqcnFvZjZCdTRCQzVFNXFmemthZzZDS0FtMlQ5OVE?oc=5
 
-10) 이재명 (기사 5건)
-- Top3: 대통령 샤오미 / 강득구 블랙핑크급 / 고용절벽은 국가적
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+10) 김병기 (기사 80건)
+- Top7: 사실상 자진탈당 / 자진탈당 요구 애당의 / 열려있어 MBC / 의원에 사실상 / 자진탈당 요구 거부시 / MBC 민주당 / 가능성 열려있어
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qc0E5NVZPMnl5SHNUUkFRZUV3ekNhVExkMC1tc3l0N0hhSUQ3LVJEN3JMSXA3RFAwZDNaMFZNcVNWWHpvMEF5ZWFvTmFaRUFuNjZN?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGlZbFQxYV9xSGtEcjBhUWU0dHM3alBYREt6VF94NVl1TXpSU1gteFdmeElLWG9HUmFNTHktWWZ3SDNKclAxYVdrWWxRWFJxUmtsZl90eWVzbW51UnZmYks1YkRsT0tILWxKbXJfc1NkUHQ2NHBUNGV3cVZFUE5jdVRLMENzYllR0gGcAUFVX3lxTE1BWHA2OS13UGNkcTVUWnMtQjNvN2tjMzNIZGpmNnlNM3h0TTRpa2FIT0FtM0NUZV9pa1hXMUVCZnpkLURjcWU5NjVtYmI3ekJLSHI3ZGJZUXZ6N1U5YjJERDBLb1BVeW82TEhacTNLb0p1SEpNaUJ2VFUzdUptY2ZFbVFVdDFIbldBUmlFSWM2dFppWFVTNmVJaERaUw?oc=5
 
-11) 강선우 (기사 4건)
-- Top3: 악재에 골머리 대응은 / 소개해주면 / 연이은 악재에
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+11) 이재명 (기사 73건)
+- Top7: 민주당 / 원내대표 / 한병도 / 최고위원 / 대통령 직무평가 / 뒷받침 / 강득구 이성윤 문정복
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWhEamZZUjQ3MndRb0R6Z0VBUlEzSGpNWDZrSzFhZHczYXBTZTYxWEdPUDd2dFdFMTE4czJLNkZib1lsendnY01lMXpqUy1IS1RFbms2TUZBcU0zTWNabDFWSVFlVnVTb0tZbVkzYUd5QXFQM1RWeEw5SXMyQl9OdmpXUXplclhMMnZKZy1UaTLSAaQBQVVfeXFMTzFkWEhXM1g5XzUwMDN0MkVLclFWUDR4d0lwZkE4M29sdzBsQXgweFZvSFd5c2Z0Z3hMTzU5elAtUjhNTTltb3dPbDdRc3ZGSDJjZWI0UGVVNkc5M3k5LUNoMWg2NjZkZWR5eURwRFBIWmNHWGdKR3JCamtwQnlBUVo4aGk4RXBRdURDdHNJdTN4ZlFHTjF4QzlhTURwa3ZYTU5KcDc?oc=5
+https://news.google.com/rss/articles/CBMia0FVX3lxTFB1emJXSGhwNm1Fck9ueDdYMGdHNTVwd3liMjJRY0RSdnJYdEJtdHpkdmljbDQxQThMZ25wdFBibmw5U0xUa1hRZjhXdGhzSVNzQ2l0VXd3aDN5T1NxN0Y0eTlxakdFci1zME1B0gFvQVVfeXFMUGstb1hwVnJ0d3hvZXlsOW5ZbFItV1ZxSHRLamZNWUJyNkpneWJwQ0RTZExZT1FmaXNMNlp6QjFXVVRPTi1qSkluRHE0ZW8xQU02WjhTODBJQlM0LXY5OWpUajB1cXR1N3lzWjdocU5V?oc=5
 
-12) 김병기 (기사 4건)
-- Top3: 떠넘긴 권익위 / 윤리심판원서 결과 / 국민 눈높이
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+12) 장동혁 (기사 69건)
+- Top7: 이준석 / 제안에 / 조건 / 연석회담 / 전성기 한나라당 / 댓글 / 수용
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZlRtelhpeUg3Y2I5eFFrZnFlRERoN05PVXg0Vzd4ZHpjQl9zMC1STXJUNzg2SDNFcmhlSmQwMTZZalRSTUtJQXBENDdyNDRRSmR2QVdrVTZ1d00?oc=5
+https://news.google.com/rss/articles/CBMibkFVX3lxTE54TzVjNGMzLTBlakhJeXhUN2FiMWctWWtpTVJoWTNTbGluSG5zTkZScnVTTExZdHV0eFY0aG13QVl1Nmp4UmNlQ2NSUVhVRDhXRldqTjljSVQ5dnNxTDMxc184dTNaWHU1ajd4Q2l3?oc=5
 
-13) 장동혁 (기사 4건)
-- Top3: 표기 외국인 투표권 / 투표권 제한해야 / 표기 외국인 지방선거
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+13) 장경태 (기사 66건)
+- Top7: 보좌진 성추행 / 조사 추가 소환조사 / 소환조사 가능성도 / 조사 수사 후반부 / 비공개 조사 고소 / 조사 제출영상 / 비공개 소환 혐의
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zMENUcG1Bdlc1VzRtRkZtM1RiNXhEVS12OG5QWGU4enIzSEtGWC1tQ2Q1azREQzlReHRwQ2xFdUd0U01mUWJJdVNwcmFsa2pT?oc=5
+https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hZTgxdTB0Nmk1anJvUWtzNGxabUtUUnVHdEZLMGxsZnZTZmcyLXRoVC1KaTNqM19LTDRmSHc5S3J5TFA0SW5MWGVkZEU0ZzZpVnZz?oc=5
 
-14) 권향엽 (기사 3건)
-- Top3: 의무화 이해충돌방지법 / 이해충돌방지법 개정안 / 친족과 수의계약
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+14) 박수현 (기사 44건)
+- Top7: 민주당 수석대변인 / 김병기에 사실상 / 사실상 자진탈당 / 수석대변인 기자간담회 / 민주당 김병기 / 김병기에 민주당 / 민주당 지도부
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiekFVX3lxTE44R1NrX2dhZEJLb3A4SzdEQWk2TFl5bzNETG9CUXg3cVA1M2dLVkV0M1AxM2wtXzAtdUdCbTJBVHBjcGZUQlVfcnlUT3J4MW0yRDJoZEFRTVVkWnRWT21XVm9INnVDbGpmR3VhV2ZuWkx1cXpCcVQ1clhB?oc=5
+https://news.google.com/rss/articles/CBMieEFVX3lxTFBrbUN1TVNpWWl5bGN0cUNGcUpiaWNfWEU0RTVmRXNmeGJGdHNVcTBRQkFwb2hWN2JTOHloeXA3TjJMVEtQajJSTFhkdTN0QlNNcGtQUnp0YWlTcmpqZGYxM2Q2TktFVlFLWkpQNmMtTURSN01ncVBUYdIBeEFVX3lxTE1GbVBEbGpGNkZ1OHhGWGJ4d2IzM0FIRUx3OEQtZFFlOUFYU3BBME5ORUdtMnYxOVNnYkRMZTk2WjJyZXdjbG9nRnpzUVpuOWxCWWJhYW9UbnpDMWlhNWpCaXVEb2VRYnZxcGFrQ3NEVjQ0aFg2ME1icQ?oc=5
 
-15) 나경원 (기사 3건)
-- Top3: 법사위원장 되돌려달라는 / 댓글 국적표시 / 되돌려달라는 국민의힘에
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+15) 박정 (기사 41건)
+- Top7: 원내대표 한병도 백혜련 / KBC 광주방송 / 민주당 원내대표 / 원내대표 후보들 / 원내대표 후보자 / 손잡은 민주당 / 광주방송 민주당
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZHJ6UlNCQk8wT1JjSWhpcHF1a2dYeG0weVFDWUhGNFdDdkljMld1ZFVkZDJ3Vm02dzJvSjYtdmFtYUQ2WnQ5elMwV3Z3cXU5WHlFM081d3VESU1Md21fd0tiUUROMHdVMG9waDlrZUo?oc=5
+https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cby1ueUp5VXh6MnNmTUFYN2FFYW44WThXNzJ2Q1FuSDlzM1phSm5hYjdkQWRXNW4yQ2tCMm1rbXNOd21zMFUxT1NMT0VqeDRMMTlRYmFvZVJldHo3eXk1VWxvOWhBQjJsc1hrT29MWQ?oc=5
 
-16) 신정훈 (기사 3건)
-- Top3: 특별시보다는 특별자치도가 / 신남방 중심도시 / 행안위원장 광주 전남
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+16) 진성준 (기사 37건)
+- Top7: 원내대표 한병도 백혜련 / KBC 광주방송 / 민주당 원내대표 / 원내대표 후보자 / 광주방송 민주당 / 원내대표 선출을 / 박수치는
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SSGQySXU4azhES0s3MUI0czUxQ1dGdF9tbUt1NHFlZ3FHVmNvN1pRc2h2YjRpUnJwa2VEb2NHY01yRjIwR2lYV2NzN0ZUQ2tKVWRV?oc=5
+https://news.google.com/rss/articles/CBMib0FVX3lxTE9QR0tTYTZhWlk1eHUwNmJEZnJDdnhLOURIaW5VLTlCVTRlWlgzU1RNcUF6c0NYVmNLb3NLQ2Zxc3NDandnSWtacExVbDdUcXE3OUdLX2VxOUJLaUNBZm1heEFSWi04OHFINExRQXcwZw?oc=5
 
-17) 이개호 (기사 3건)
-- Top3: 목포서 타운홀 / 정면돌파 / 성료
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+17) 이건태 (기사 36건)
+- Top7: 더불어민주당 최고위원 / 최고위원 보궐선거 / 최고위원 후보자 / 최고위원에 강득구 이성윤 문정복 / 핫라인 대통령 당원의 최고위원 / 명통 당청 핫라인 대통령 당원의 / 미디어 인사하는
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiakFVX3lxTFB3M0c0VFE5cm92bmdLUmZ6NjFEZjZERDB2MDNXVy1PbUdsTjZSMmMza21LaDRYbVFJZ3NiOFpSbVk5bjZ5aUxWcEFsN1YzZGxidkJVT090VDA3VUZPMWpXeWZzUDU2ZjRPNFE?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE1sR1FxNm5mX1BVX1F2cHl4eVppLW1kUnRsSU9rdVRDX3hPbW5TOHNvaW50ekJzWGQ5MjI3TGlqX1hIQVdMNEtaV09EQ1BITnVnTEc4TWkxOERzXzRCcGdMZVk3TlpyRHVSTmR5LTBVUC1DbV9D?oc=5
 
-18) 이성권 (기사 3건)
-- Top3: 온라인 / 이야기 / 가이드
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+18) 서왕진 (기사 25건)
+- Top7: 정치개혁 개헌 톱니바퀴 / 톱니바퀴 돌려야 / 한병도 원내대표 / 발표하는 조국혁신당 / 원내대표 선출에 / 한병도 혁신당 정치개혁 개헌 / 원내대표에 정치개혁 개헌
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMi8AJBVV95cUxNVUl1Rk5SRldabDRsSE13Y1daT3hUejRqaklrU1lXRTV0YTVMZ2pDY3h3M091UkM3OVNDNTRhU3paSXY2NldRYlM0dUM2MnJJX3k5Y2UtX3k4dEJWRnNfdHFYNC1QamdGQ1dwNXQ4RjRXencwZjBIZ0d0UF9iVl9OTnFnOVB2MzhEQUs4SnhaSU5NOUt6QjdPUXRzb1ROakxKVXFLblFfMVowb3dMOTdFdUNwOWowMGQyR2w5dHNTOUppR0JZbkp3Y09OQUwyaG9xMkxzNlB0LUlkUTFJWUItQ1M4VjdJRkNndVZDVnlEdHFmWEZISHk3THl6ZllueDVQaFBtcFZleHlycE5TWGRacU9tSExRblVwaGNJMHotSTY2elVac3pqSWlCVVdnUGs1RkxUSUxLdkhJMHJIaU95T2NTR000UWdsZmJjaE5kczdjUllUeWJYaV9aVURrcHRzSUkxVTF2ZkVJcEdNQzdyWA?oc=5
+https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHc0V2enBUZVc5dU96RVZsSXJHSDhZc1B4RWl0alV5dFM3a293cFF4SVN3OW0xcDBheUptMWY0MHJqVTZ4eDZBRDl6OXBaQXdm?oc=5
 
-19) 이수진 (기사 3건)
-- Top3: 국립의학전문대학원 설립법 / 법안으로 설치법 / 대표발의 공공의료
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+19) 진선미 (기사 21건)
+- Top7: 민주당 원내대표 / 민주당 중앙당선관위원장 / 원내대표 보궐선거 / 의원과 기념촬영하는 / 기념촬영하는 정청래 / 보궐선거 선관위원장 / 미디어 인사말하는
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Qd0hFZmd0YVZpNWYzZVZKMzhUYnZZemRmNlk0RE9jbGpxQl9QVjZobTBtMHlGVVlRZ3pPaWM1TVdqOFVDeVZLeXJIalJzXzFtMXRMM2ZjR001YTZmYU13aE8xaWxQaUdV?oc=5
+https://news.google.com/rss/articles/CBMiakFVX3lxTFBFZzdnNjZrejZST0FRQ3c4bXF1U3QwLXRjTERrc2lVX0J0Ump4S005S21UYWJYZkQ1OFpiM3NvSFZUc0cxVGNabEJvc2NTdzE4ZGhFdmZxVVRqQzhYZ3JMQUhLeF95eTlIaWc?oc=5
 
-20) 이준석 (기사 3건)
-- Top3: 시작 합당이든 연대든 / 연대든 뭐라도 / 뭐라도 해야
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+20) 이개호 (기사 14건)
+- Top7: 광주 전남 통합은 / 소모적 경쟁보다 / 하나로 모아야 / 길 대통령과도 공감 / 경쟁보다 힘모아야 / 통합은 실리 소모적 / 광주 전남 행정통합
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oNkV3TXYxMzlidjZnM0o4alM5YnZ0N1B5ME9SRGNUNGd3TEFLUGZqSnBfZUplZlkzTHRmU1FXOVEtalNmNDhzNHBMejhORXc?oc=5
+https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LSkZLd0E0YTBUYzRjdEhLZ2YzNzdoTVJreWpTTjZuYTcycXlVSk1SZ0htVUl5bnQzNnZZSmIxUHFZSE8wYy16emdnbDNCNlFxMnQtRg?oc=5
 
-21) 강명구 (기사 2건)
-- Top3: 구미서 찾아가는 / 구미시을 노인회 / 찾아가는 의정보고회 성과로
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+21) 최보윤 (기사 14건)
+- Top7: 국민의힘 수석대변인 / 수석대변인 기자회견 / 국민의힘 민주당 / 국민의힘 대통령 / 눈치보는 자충수 / 중대범죄 주장에 / 무인기 중대범죄
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzY2JkeDFzaXJLTGdPT0U3NGJ0VmxMSWpMbVNmWXByUjlsRnc4bUc1X2pXX3RVVl9LT0NFVHlkWV9GR2E2djc4?oc=5
+https://news.google.com/rss/articles/CBMiwwJBVV95cUxNUk1BSUJuVFpMbTV4dkhUMWtRbmh5dDBVS1MzdXg4Rlk0cjg5SWpkdWt1VDFOQ3hPdEo2blduQnloTi11N0E2VlliOXhJUkt4ZWF2bUctZzIxZlp0Nk96eVBzb3VNaDhQbnVSSzYwNE5wbUpDQU1DcnQtR2Y0ZW5YZVhFRmNOYWxWb0hwOWlEdFVmbkdsZUFEQ0FDNjhkR292TWQ4OXdMTXRJUEF1VlBoRzVja29yaURsQVJ5M1pHWmZ1RmYyMkdUZmFiSDBQLXlUTXdyWlhXSFFDZl9YX19OaGFXUnJ5R0JDNk9aaXRoQUdUZFpkd2dfellBUkg3cXhHNWw1TlpUUjRzRXIzZW5yUF9NLURuZ3FTRU1sak8tOVVIT3V0Y2dVVC1KV2JQUTBScUdxQ29adF9EeDZrcHB1VW1XMA?oc=5
 
-22) 김기현 (기사 2건)
-- Top3: 댓글 국적표시 / 장동혁 댓글 / 외교장관 의원들
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+22) 김선교 (기사 11건)
+- Top7: 여주시 양평군 당원협의회 / 당원협의회 신년연수 / 신년연수 의정보고회 / 대규모 신년연수 / 국민의힘 여주양평당협 / 경기도당 위원장 / 여주양평당협 신년연수
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZHJ6UlNCQk8wT1JjSWhpcHF1a2dYeG0weVFDWUhGNFdDdkljMld1ZFVkZDJ3Vm02dzJvSjYtdmFtYUQ2WnQ5elMwV3Z3cXU5WHlFM081d3VESU1Md21fd0tiUUROMHdVMG9waDlrZUo?oc=5
+https://news.google.com/rss/articles/CBMiZEFVX3lxTE10YkRRM1FxREE3cVRDVTdOdmlMcUJKYmhDS1ZHQzFTU19Kbkk0LWFOTkkxTVlXUFkzQ0xLNm9jZFZCNzY2ZnRhZ2s4RHhqOUZjeTZJUkVzei02TUdHWHpqWGg3eVg?oc=5
 
-23) 김영배 (기사 2건)
-- Top3: 시대정신은 유능한 / 유능한 행정가 서울 / 지하철
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+23) 송언석 (기사 11건)
+- Top7: 한병도 원내대표 / 진솔한 정책대화 / 한병도 당선에 / 한병도 민주당 / 한병도에 진솔한 / 원내대표에 환율 물가 집값 / 민주당 원내대표에
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XVUY4d3lsNndpOUVuOEdka0Utb2MxX1BnX3loY2dWNFJydDFSU3h5emVrVC12VFpKeDRkRlB0SndHNkJYVzJkdlJObnRGdEk2RW93OGhkTTRoVjBmRnVoTVppZElVQQ?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE5tMjNWdHpGY3czcTRWSjdDVHExajk1Q3JNWllibmdSaXZyWEZSS253eVktZEV5a0NoUWdwMnJvVU53MmpUQy1RZzV0QzFWaDFRekFTNmpGSkVxd2N5ZHR5WWpDOHN6czRHS3RjbWFxc2t3SERl?oc=5
 
-24) 김원이 (기사 2건)
-- Top3: 민주당 전남도당 / 후보군 / 통합단체장은 광주 전남
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+24) 김병주 (기사 10건)
+- Top7: 야권서도 MBK / 머스크에 공개서한 경기북부 / 머스크에 서한 테슬라 / 시동 남양주 / 정비대에 상상캠퍼스 / 북부에 테슬라 / 테슬라 아시아
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMi1gJBVV95cUxOS1BMeXBrc0l5TXJwZE9KaWVvU2J3a2VKa2N4ZnA2elpnNDhGSXZvOWpodTF1NTBkSWg3ZW9vWWpmM19tcnptelhQb2ZpMHBCS0IySkljZm1zUnpqSFZkeFEzSXpxUmdBaTEwTVIwTlBFSXZVbXBkMGRCZVZwSXVUbFJrWG11cUNOODRsQ1N1aXJJenllaS15S3pReVhVOG5JbXZLdzdBcGxZcllXZjhoU1NwbkI0emVsRWhpaGUwSmxtbkM4UGxhb3BKVDR5QXd1UTRqODdoLWdNUXNGYXRlY25XSkhJSmg2S19wX3RBRGdaSlBQY2piMWxaZDc3Z0k3Tk1NS1VUeXFacF9GUUwtc09vcWczeVVoSkhOZ3RIMFFoX3g0NnhQbVdVNFpHemtqUENWbXEzN3EwdC1aU1UxelJ2N1BiZUpQTWRzdW9jNE9IQUxpcnc?oc=5
+https://news.google.com/rss/articles/CBMifEFVX3lxTFBEbmN6bWxhZEdJY2c2c0pkNHVKRThrMEpXX0xFSTJUakdOUlIyYVJMc3JSNU16WUdDaFhFSGh5LTQ3MkF2WHFtRlJ2dE5DLWdOSXVUUjlUMVplYUhZU25CeHlJVXhjeks3LWFxVUR2azllRXVrUzJiSzBLdno?oc=5
 
-25) 김준형 (기사 2건)
-- Top3: 대한민국의 외교전략 / 의 베네수엘라 / 조국혁신당 의
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
+25) 박수영 (기사 10건)
+- Top7: 병역 취업 특혜 의혹 / 부적격 끝판왕 측 / 공익근무 불법사항 / 끝판왕 측 불법 부당 / 의혹 자진사퇴해야 MBC / 의혹까지 ZUM / 이혜훈
+- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
 - 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMia0FVX3lxTE1XVVJFbGlyMnkzZTBsYVZDV2YyNGhSdUkzSHJZQXA4SGpfd3hSZjZoUW90LWI3RlZjcmFZVXh1N1N5czZhYVY3cTRXNE1hWjEyazRhWGs5aUxTNkhZWXk3ZWljTTdzYzE1Yzgw0gFvQVVfeXFMTXU3UVRmRGVZWEswQUZ2azk5MGV6b1VmWmtWbWg4Nl9fcGhQZVh6SHExR3RMRU4wY2x3MnJEbFNIaXE4NmV0R2FpajdELTdKX3l0dFRza21pcTVjYkQ2dFBCeW9yNG95NlFFZEVGam04?oc=5
+https://news.google.com/rss/articles/CBMieEFVX3lxTFB1bURWTEl1dFMzMlY0NEZmYTFoczF3UmtGVGRzT3Y2MnVnQnpRZHJSWUFxTEN6NEl6SHZPc3hPNXkzSDBtbjVzWGlXaFVvelFKTjNkTXBieXRoQWd0MGlKQ0FMYUlSd29jdEdsOUdHaWpyeXphaTZtMQ?oc=5
 
-26) 박정하 (기사 2건)
-- Top3: 김진태 강원지사 / 국회의원과 협력해 / 강원도
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMibkFVX3lxTE9YeE9iendlU1N2Zzd4MTR2cl82QWEyRTF1ZlhWV0RjbEc4VHAweWw4YW1CSE9neVZhSlpiNGljUkUyMlF2c211bXhBNVUweHpVaVJQWVpON0lPY1BPMlZPQUw3ck9waEJQM2N0Vkxn?oc=5
-
-27) 박지원 (기사 2건)
-- Top3: 인간이 대통령이었다니 / 변론에 미뤄진 / 윤석열은
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGaGJ2bUdtNEtwZzVldm0ybUtKYWpMWmZFUzVyNXhObHVIWGx2ZlJ6anlDa242STRlVDFuSGdIdDR3c3MyeUxiTk1Ibm1jYjA?oc=5
-
-28) 박홍근 (기사 2건)
-- Top3: 그리다 출판기념회 / 조력자 / 이름의
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMibEFVX3lxTE1jR243bnNuRDNVazZ3MElBbjA0R2VvbnE2dFYzQ3dhRWpHc2xwMm9MVGx4WGc3eGlPcHlDQmlZcUN6TXRSUlRGWkw4WTAzV0xmNWFQT2pwTHk4NjFnQnJnLWFJc25fekY3Q0pSMg?oc=5
-
-29) 송기헌 (기사 2건)
-- Top3: 김진태 강원지사
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMieEFVX3lxTE8xMGNZbzhUS2Yta2p3MWtkNUY1T2ZNUmQ0bTVPZ05NcnA4dWhYSW03YVo3c0l6TWpVT1A0LUFIaXpHXzhDaklrdlpReVdfTnAwSG5YaEtvLTZSRkJiRlpLbzJjZHlNNmlvMTBUOURMZ1pJSVc3S2lSLQ?oc=5
-
-30) 양부남 (기사 2건)
-- Top3: 예비후보자 자격심사로 / 더불어민주당 광주시당 / 자격심사로 지방선거
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nRGVZQ2lyU2h3bHVialdKRzhweV9BM1piSFZTdTJmMU5FV09WVHhhOVBuTElYeTFWVlFuajQyTWZOdWN0SUJ0d3dKTWJKeUZRdlQ3bg?oc=5
-
-31) 우원식 (기사 2건)
-- Top3: 뉴시스국회토 pic / 이번주 국회에는 / 조력자
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMicEFVX3lxTFBYOEtnNUF3SzZIM1pGUm9XZC1WVjNlQVlHX3dqbDktc0ZLRER1Zk5qS1ZZallKbGZlRG82UnJFWXBWTjlqaEdScVEwNzh2VlAxbW1GRFNsLVFPYU8yQTREVnZqR2g3V2RWLVdZSVZRWkLSAXRBVV95cUxOdVlPOFB5UGtGTHZxMGRTVE5lNWs2UE5Iay14LWNUS2JSNHpLV0hSWFNwZC1lajNJMXNTdUZ4ejZoVFhVWHh4Sl9wTXN4eHZMU2g5bHFSaWhxMWZGTHI5SnRyQ1JaWFpaUzRydzNGMVJrNm1aSw?oc=5
-
-32) 이용우 (기사 2건)
-- Top3: 자는 윤석열 / 나이브하게 진행해온 / 진행해온 지귀연
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMibEFVX3lxTE1LV0JCTWUyZXN1X0E3TUM4dy00SFJKc3dSdDhPMUFfZllBMlRPaTcxU3I1MmFCTk1UM3pYN3VpN0FvNVhKbjNtaERjRDJ4WG5rRjdOejBwU0RlWTV5TWRaUW14Nk9VcVhyZUNPb9IBcEFVX3lxTE1SZEFqY0lQb0lHbU0tMjdpTFlHLWNSMTBOQ0ltbnFJYVMzVDBndHBMNU5hYzVEMGp4bVZzSUtXc0ZiSnBua1VrMDNjVXA4dEdMaS1OalF0OFNTSXl0UVhXSlNpNldUVjBrdXlWNUFSLUI?oc=5
-
-33) 이원택 (기사 2건)
-- Top3: 새만금 반도체 / 반도체 클러스터 / 클러스터 실용노선
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMibEFVX3lxTE5QU212Snp3Y0VvR1E5ZEpnQklFajdhTEpibDJ3S2FLZ21kQlNLVEthN1dyS2VEOFhqQ3ZuaWdNSmdUdmdUY3RsNnhiQS00UmlJRVEwUVBDQVE2Qzd6WjR6Rmo3QktoMGNZTnNIUg?oc=5
-
-34) 임종득 (기사 2건)
-- Top3: 레벨로 끌어올리는 / 성공을 / 전문가의
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMieEFVX3lxTE52c1V2Rk1WRnlfYU9zVENMV0tWbzE2WXdRV0J3bm5EMXhhQUNDZGhRRmVjdlc4dXhjN3Z3TlV5cU5VTFJ2enluT2g1MXVyUUxBRkVxQktnS3dpSzdjUjA1a2J2SUpZQ2Q4MDg2QUpSaVdRZ0ZySGNiQg?oc=5
-
-35) 전용기 (기사 2건)
-- Top3: 미래를 이야기하다 / 토크콘서트 / 장동혁에
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wSkdzdlUyNDZOZkIzYk9WVmFhNUdQaHFXdTlDelF0c2ZYT0F5WVIxekt1cTJ0cWxWaGJORUFmaGFUZlpuUmVMUVNweUhoVFJGeDhj?oc=5
-
-36) 정연욱 (기사 2건)
-- Top3: 장사하나 인디게임 심사료 / OTT 영화도 / 게임위
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3QmNfRnR6Y0Zjd05zMk1BblRQNUhlTXdlVDJuQnFuZWd2WkRsNFg3SDdnWjVZVjZseFYxc0lLbDhaTGVQZ1JDRGtsYXNqc0Q0SUZuOA?oc=5
-
-37) 정춘생 (기사 2건)
-- Top3: 대한민국의 외교전략 / 지방선거 우리의 / 조국혁신당 김준형
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMia0FVX3lxTE1XVVJFbGlyMnkzZTBsYVZDV2YyNGhSdUkzSHJZQXA4SGpfd3hSZjZoUW90LWI3RlZjcmFZVXh1N1N5czZhYVY3cTRXNE1hWjEyazRhWGs5aUxTNkhZWXk3ZWljTTdzYzE1Yzgw0gFvQVVfeXFMTXU3UVRmRGVZWEswQUZ2azk5MGV6b1VmWmtWbWg4Nl9fcGhQZVh6SHExR3RMRU4wY2x3MnJEbFNIaXE4NmV0R2FpajdELTdKX3l0dFRza21pcTVjYkQ2dFBCeW9yNG95NlFFZEVGam04?oc=5
-
-38) 조정식 (기사 2건)
-- Top3: 책임감 막중 당정청 / 막중 당정청 하나로 / 대통령 정무특보
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMi8wJBVV95cUxOZzkzMUU1NzZubFZ2S0hhbm1oUUxfNXctMUxWWmJtNl9CcWp3OGlKWXNEWlJVZEhWSWdBS0NQYWdQUW01dTNYQTVmNUEtdXlHZmVNZXZkWjBSU1JMS1dHTENORW5tVTROX3pPN2xHSE5hQnFRWVE0WTdra1I5VmlTc3NDOGVKZEhWdUVwNW9UYVJpVFdMZFZnSDMxMzRncktkYzJuVHVpQ3RiVXN2VjFzYm9JSXRvcVN0NzQydk1FMVluUWtoS0Rxc3cxMjVPZ0tEVHNvaXc4WWxaVUR6Qjh6YjhMYkhyZC1IZGpZSjRMcHNXclVNYzhUdGR4Y1BfY3NOOVd1MXl4cTZ6NXlKTGowWnNhaFFmaFR1a3doVVp2TXZNcng1MGx3ekRRT3pvYXU0VTZiNWxsNVhSN2E4dC00aW1JRXFjXy1VNTVoNGFkNkhPTmd4V3BqbFFZcTRWeThPNFQ3SWUtNzhFYWM4MnVycVFKdw?oc=5
-
-39) 주진우 (기사 2건)
-- Top3: 인성 국민 자존심이 / 이혜훈 인사청문회는 / 자존심이 허락하지
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Pa1M1cE1BQy1wVVFTQTJKQi1uQ0lvcUhoN0JKMWtuZzlDckRrY18ydnJneFVVX3VzR2dTYlV3VjBxQjJjeDBxOGwtQUJFa2Nh?oc=5
-
-40) 진성준 (기사 2건)
-- Top3: KBC 광주방송 / Polinews 민주당 / 안갯속 KBC
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pRDFLRURUVTEteXEzeDJZZVBKemhkSnZPc09rTTF5N2lla3FNY2RIbTZIYVV2OFlYc1NVdm45OVEtaDZwcy1tdTVwVkgyVWJTRjV5bjhITmJKXzYtQWRZWQ?oc=5
-
-41) 한준호 (기사 2건)
-- Top3: 미래를 이야기하다 / 백준모 대전서 청년 통합 / 장철민
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMickFVX3lxTE1TYm04WFVmWWpQZlJjc1d4LVBaN01SYjR0clhjODlUYmo1eWQtV2dHS3pGTVlTTjdjenJ4d2ZIQmI2R3BmeGwyMjdDRml0LXdPd01zbUlsdHBtWVBabVBhS3VGMXpTcV9mc2htRWp0bFRkQQ?oc=5
-
-42) 강대식 (기사 1건)
-- Top3: 보고회 뜨거운 / 국회의원 / 군위군
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMic0FVX3lxTE1KaWRLLWZHMjAyNmdPWEFxT0dIXzhJbzVsWHJqX2hOSElBN2MwRGRjbWxCOHF0SjdDQ1EyclJyTXpsOUVhOTJ3SWgwcjNBVWF5M1hwd2hIY1Q0Rmc2VUhfZGV2UGwwME1RbG1zV2NpSnVvR2PSAXdBVV95cUxPNmcxcmRNZ0VVY1hQQXVXZnlnOFpsN3pCbXQ0SXZROFZDTUJVUjUtZnI4TzZtal9TSnk3ekZxaExSMEdRVXdzTEVSTWJieENnejdnc3ZUVnNuZXVNSHJxcjlhSGRNMm9UM3ROcFNiaVVTRnhsUnlnaw?oc=5
-
-43) 강민국 (기사 1건)
-- Top3: 스타트업 뒷받침해야 / 정무위 국회의원 / 국회의원 금융이
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMidEFVX3lxTFBpUFhxbmR0MkxKMGlnNmE5Q1FpZlhSV1IyOElXZFlWYnVhSzJJNnFSbGtZdTdQTFpYWDNGYUpiaDZuajBTY2NCdldNRnR3NDlycE5Xb2U1NWZISGpMdko0bnBnR1JVRDhfT2ppMVJhS0NORUZI0gF0QVVfeXFMUGlQWHFuZHQyTEowaWc2YTlDUWlmWFJXUjI4SVdkWVZidWFLMkk2cVJsa1l1N1BMWlhYM0ZhSmJoNm5qMFNjY0J2V01GdHc0OXJwTldvZTU1ZkhIakx2SjRucGdHUlVEOF9PamkxUmFLQ05FRkg?oc=5
-
-44) 강준현 (기사 1건)
-- Top3: 스타트업 뒷받침해야 / 정무위 국회의원 / 국회의원 금융이
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMicEFVX3lxTE16REw5aEVneF80TE1ybHhHVHNMckI0UExyZjlYLWhyZ29XTmVwNnVReHJQWWpSbkM2cXd1RWZLZjZWREp6SWJmSmU2X1RGQ1RQZTNGbzF3WEpBMGM3dGwxQXI0UDZGbDROUGJOLXAtY07SAXRBVV95cUxQaVBYcW5kdDJMSjBpZzZhOUNRaWZYUldSMjhJV2RZVmJ1YUsySTZxUmxrWXU3UExaWFgzRmFKYmg2bmowU2NjQnZXTUZ0dzQ5cnBOV29lNTVmSEhqTHZKNG5wZ0dSVUQ4X09qaTFSYUtDTkVGSA?oc=5
-
-45) 고동진 (기사 1건)
-- Top3: 일제히 반대라는데 / 새만금 반도체 / 반도체 클러스터
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzNlJOcTNnY2JBOUgzRFEtNG1aNmtjaVVkSW14U0haMFFWN2d6Sk1tZTJ5UWh3eXhOajlTUGI5cTlnVjNHZlNaV0ZuVGluTkU?oc=5
-
-46) 구자근 (기사 1건)
-- Top3: 생분해성 플라스틱 / 전략산업으로 육성해야
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMikgNBVV95cUxQcW11ZUc2eFh5a1pKZGV4bkw2dGlHNFZlbzJtWFlTSGNLMXZUVldqNE5xZjZid0FMcWk5eHZPbkFtc2NJWnNkdVQwWXRqcXlfcEF3WG1uUUItNTB3Zk00aG5wNnktalV0Sk9YdURzaUhrTHo3a21EbkhhN2w1WDloRW5DZXQxM2dDMG91Y25RbFJPZlU4UzByM1dENUNKLUJsMFBuZzdrbXVhWG9EMVZfdWxQSjRpczVlQWd0RGh0Y2dLMUhDUWtyaWlOdVN1Qk9rajB5dUlDLS1HSmNueURIY2pTdW1PSW5YRjBlU0xMNWMyMWR4aktRSm9sSEdmNHQ2UnBzT05kS3EyZWJZRTZ4SVJQaUlYd0R3SUFvMWs0aWZWbnBNby1LbjJZX3VDS29OTmkzVVNJUVdzdXRibkJpUndVZkpjTVYwQ29OMWNleV9peUI5VjZQTXVkWjZ2V3JkbEZobUFnZ3dBVE1DaWNSQ0FoN00wcWxVdmFfd1RZX0RPa2dDMHNnVTVER2stMVMtNmc?oc=5
-
-47) 김남근 (기사 1건)
-- Top3: 거품 소각이 코스피 / 자사주 / 출발점
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMi4AJBVV95cUxNaEpXSHYwa1FlS3ozc0J6M3dnN25HYXpuWFQ3VnNoTVA3OEN3dmxJM2N5dVRNVjBIdUR5Zlg3eU0wYUtmYTNYUzZETXNkaERpcG54dlpWOXVNdjBaWWNSTjNob24tTy1ONko1WmpQNm9DLW1FemdmSlZNUVhnRXhURWpidWRvenI3OUVCZWhvUHl4RjQybVpoOWdGT1MwaTlpcE9zcHpjOFRvRlhjR2RjdElZbC1MTUh6WnY1b2R1a3lRRXdkSDJLcHpLNUNXLW90cXpjTXBDZ2F4Mnc5c0pDNHNSbHRpaEktb19pR3lPZy1pblJ6MEREd3licjVRMG1BZjFFYWltaXR6TG41emRkWld2cVMwUk1HSlFIUDF6WHVudlNEZm0tVFpEMlp4WVVPRVoyT3ZfdjVpeE1TSUFKZDViRUJaT2lhZDZGMmdpTU5PM2xGSkhLT0ZjRFZxaFdh?oc=5
-
-48) 김대식 (기사 1건)
-- Top3: 대한민국 연다
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMifkFVX3lxTE1uTUg5aUpXX3JIYS1zdUwtYU9SV3plYzFvekpjWWY2NE4wWm5pMzJhd0o0b3gwYVNuOVA1M1didXpEVU16X1l5THFLT2pMZXYtSWtKSTdFeHJ4bDQ3Y093S19xZjd1N2RkN0lLQWpFS2tRNEpaQzNYVE9LTVFJdw?oc=5
-
-49) 김도읍 (기사 1건)
-- Top3: 생활부터 챙겼다 / 강서구
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMifkFVX3lxTE80ZGlKZWJBZWpOM2VRRVZtWW5kUTctdFB5WmVHMTc4Xzk4SGdCcU12ODJRR3M0SkE2QURMRkctLVFJbmhqbXduZjluWmMxR1BKUGJvTmw4Nks2LWhwbTdKWmNCeFdEOU9mVk5HMDJSenNYN2hUNjd6LTNMWkhVZw?oc=5
-
-50) 김민전 (기사 1건)
-- Top3: 무인기 이적죄 / 엉터리 윤 / 대통령
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMib0FVX3lxTE1hNVlaeVRwLTA5ZVRaeHd4ZW9TMFBydXo4OFlGakRfYzNtOG9VSzBjTUc3aC1KZFFhUEZhZEZXaUg5THI0bjU0alppQ1hic0N5QU94aFNzSFItRF9zWDN0UHZ5bnRyZkppa0cwaUtoYw?oc=5
-
-51) 김병주 (기사 1건)
-- Top3: 살아있다는 / 박정훈
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BTGcwbmZfLWRpNzFndFhJVTRJVkg5ZzhVeFFHSDg0ekxvZDdEQWl6WXpUYk9rWWpzajRHMElEd0c2eU1sTVFyVzRxYUpsdDA4c1BJ?oc=5
-
-52) 김성회 (기사 1건)
-- Top3: 웨이브 스포츠 / 완벽한 / 가이드
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMieEFVX3lxTE9DYmU2SG5rOXBUaXZjSlE0QkZMeU9KTnliY19QVERYVW93eXZKWUIxR21oVVJLbG5iZURzZGhhdGdxcXRJV0dNc2RmcEFBYlpMRDJva0dsUWZGWHp4R0I2ZE1ZaGZjOTRETU4zRUNtSkNEUWgwLXpEdA?oc=5
-
-53) 김승수 (기사 1건)
-- Top3: 장동혁 국민의힘 / 비상계엄 / 미디어 장동혁
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qRnJ4Qm5GLTE4N25BS1F4aFZFeDRpTGRYN3VQbVJOWDlvcHoxUG1JNjgtNTVYc1JnYVZlWmI0MXZ0dzVIZGhMRUxBdjlwbktpX2U0T2dB0gFYQVVfeXFMTmtlTXlWREQ3RDdPWTdZUEdETGFSZmZXaXpnOEhPelM3bWF2Y19xRFA3aHlNT2J3eEtFa2JiOVhuS3p3NWVCWlRQcEVTeHh2Tnk5WC1fbXFTYw?oc=5
-
-54) 김영진 (기사 1건)
-- Top3: 모호한 장동혁 / 총리들 식민지 / 같아
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMizANBVV95cUxOdzNrRFAwR19ScEltcHYtTWFyVlUyVnBlNXVkYnM1VW1aWXZoYkhOUTIxY1R2RmdETjdPaDdXSVJoc09hZDVZZE0zcndSbzlzaEo5Q3l6cndGcDNQbXZqRTFUb1kxMlJVdVcwRFhlSEd6aFpVUnFBalNpdHYzU0lfOTU3WU9FVkJ4T2tqSF9WT2otVjY1MTI1QlNwQk50MXR4akdIQVRPM0ZuX1lYb0oyTUwxZXJObUFFOUFpdHB2MFNqSnlaOW1WUkRhX2pYNlcxQzc4MkVLeGVtNGpnT25CQmhDLVZqa3pMUTJuaTZaLVdOVjRfLUdxenBUVFNPUW1rVzV3YnlJUnF4ZVVxZmY3OU1peHZmcXF6akpIcF9tS2hzOU9zczFEUFJRZzdJdGxKeGJBd3d4ZVBSaTJKZjlNSGJ0OGhIY3dXTzByX1FxS1hDbGJGVWFhNFV1Q1lkX2ROVWtEblA2aDRMX0owa21vNU1OU3Vlc280MFNjZnl2QlNaVnI2eXdQSGNZdFU1N25kaEpWd2x2NWgxQzEwcm0yVlpmb05lOVdjRUdWaDZGSmZlQUdySkFxRjlVTWxCZ0ZoQ1NIZUxzTXFrekVm?oc=5
-
-55) 김용만 (기사 1건)
-- Top3: 족구장 조성부지 / 국회의원 / 감북교
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMickFVX3lxTE5EOXVUMzVmNjdKa0pMdnNXNkRtWDhGTDc1X2RmWXJJWlVqZE5lRi1LRWJ2T05SRGNqbjdQOWxiU3JnaXE4aDNuT05HM1A1ZGo2YWRhc1ctWGlYdFJLUlVyS1VSVHlZMzhFSTFOaXV4dGszUQ?oc=5
-
-56) 김은혜 (기사 1건)
-- Top3: 국회의원과 함께하는 / 함께하는 분당의 / 분당의 마음을
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TcHZiU2ZCenk5dFl6Y2Q5OTVLb1dQNGVsa3hoaTB0VEUwNXVDZ1RxMDhwWC1TV3lNSkU5NEd1anpWX0phWmpKZ25FNGNQbDdoeDBqYU01dVIwek80dVV2a3VkQUhCd2s?oc=5
-
-57) 김장겸 (기사 1건)
-- Top3: 민주당 / 바꿔라
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMib0FVX3lxTFBkNUhUVlVJdDNKWUljanY3dGdOV2lDQm9SMzltclJJWlUwXzJWSmJRR2JSbnc5WlVMT1ZtNkY3RWI1bWNIYzF5SUVYSklySkJUdFpVQnJNY2pTQUNGRnpUNm5ISjY3LXI5emR1T2VJYw?oc=5
-
-58) 김태선 (기사 1건)
-- Top3: 미래를 이야기하다 / 장철민 / 토크콘서트
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KRU0ydFh6cU9xM1piTDZZYjNyWnFFcGtNeVlpLWh2dWF6ZnV4a1czTHBrbDZrLTdhZDRKV1ctalhrV0ZibGk1ZmktTQ?oc=5
-
-59) 김현정 (기사 1건)
-- Top3: 최원용 이재명과 / 행정 평택
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE90ZzBPQ2wyTjd0U1ZQQ01Fdkl2aVoyUnVOYlVJY0FEa0o1TmphdlY5ZHR1LUR2X0dWdUFpTGZaOThtN3hLeTRMOXVUZm5OejdCNXplMkhaWHFWSXc?oc=5
-
-60) 남인순 (기사 1건)
-- Top3: 국정감사 우수의원상
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnBjbkdjZFV6UExTUm05TF9MY25sc2pOa0V4T09Ea184RFZDbFEwNDRQeGJIMFY1TnBhaHVWVG9GcFA2QW5ZemY5alNpUFFQLW96TUctdWdYMS1oN2pHUlJZek05MFdaUi1iU2RBYXh6Sm9UQVJoc2VJTFJmdkpDaEozSmV4cjBVUF9wbjE4Y2RNZjJJUXlnSnh2ZjVfZ3NsRUZJNw?oc=5
-
-61) 문대림 (기사 1건)
-- Top3: 카지노 다시버기 / 최신판 / 이정표와
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMieEFVX3lxTE1BM0YyY3Q0SHdtN2N5MHozR255Y1hmRW5XaEsydHllUzZQdDE1cFQyTUFPdW9BOEhDNzZIS1pacVRIOTR5b3NWNGd1RzNkcU53Q25mbGV4NmNjN0l4dXpCMXVaOW1xTFlPMXUtTEUxVkJ4alRDYlp3Tw?oc=5
-
-62) 박선원 (기사 1건)
-- Top3: 수사받는 국정원 / 강서구청장 선거에
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiU0FVX3lxTE03OXhoSXV3SE4zSG5YUXlJYTZOMHd5TTJwT0ZDbW1NZmFHeDkzSFl6WU9xZ0duTWtCdDdpNENlODZ5SW51Mm92VndkSkkzVThLb1FR?oc=5
-
-63) 박수민 (기사 1건)
-- Top3: 민주당 보수유튜버 / 국민의힘 민주당
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMitARBVV95cUxQV0VZNEIzVkt5VWtsR1dkRWpFUGY2RTZKa2E2STBJdzhzVU0zbkNWOTZOU1EySG1uU19LLW45alU2Y3pYQ19Fcy1wYVg1Qjl4TV9tR2ktaHlEQzdmLVdMUHAybXhPcFY2U0RWWW1falNNZXR1b2p3QVpNOEFSanhXbVNJal9FTGVlQXNGLVFER3BjYUdyUnNSejk1cmFlZEpBOU94UFBjU0xoTWlDQXFiX0t5WWRBbXVJNTZjTy1tSlYtSnlUNHVTZjJUZHhXNVlNbE4yYmRzWE02Nm1NWnQ5dk0zUzlUTzE3NVNhb1ZyMnlPbkliRzdpTWg3NGthUkxUdm1PNUlFemxfRFVPU1B3R0E5UGlZUk92eURoQ3hLcjBhV0haejYxZURGOVJlc1p0ek54NVY5amFmcXZLOGVTLS0wSUo0ckRRNVhOWGlBc19QOW5NR2RBei1CVi10ZUcyZ0JMUkRLLWlfRTMza1RjUXVrdWRybTdaaVRFeFFkRkRfdTZBa0hBTTJrS1oybnVpOExLZVZpOTN0eVN0d005MjdBcEpFM1BZam0yb0FkdlZwQlRLMXJGbGw1MFpqQmlTNmY3SXVzZmtXc0UtaXJULUJ4MFhpVjZhclNyUFA1ZFk2elFYajhiSkZRQXNPU18tMUJnRGZVeXgwSGJDNGNvaVMtcU1Sc1c1bzV2UDBwWGhpV25laDZ2LUtKYWxNbHByUzBpTWJwQ042ZzlteEJPdUdndV8?oc=5
-
-64) 박은정 (기사 1건)
-- Top3: 넘기면 사실상 / 사실상 무산 / 검찰개혁추진단
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMibEFVX3lxTE9KUV8yTmUxZTc4Z0JfSjRGMFltRFBuZldRQ2tXSE5rWEpBMjhFQnlubHAyOWU2akVhZ3c1X2QyTDM3RUdFeHFFR2NFTjBTZUMtaWFPRGJsX0QxUjd6MkV4aVN3SzZvUjZQNE5BWQ?oc=5
-
-65) 박정 (기사 1건)
-- Top3: KBC 광주방송 / 안갯속 KBC / 광주방송 민주당
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pRDFLRURUVTEteXEzeDJZZVBKemhkSnZPc09rTTF5N2lla3FNY2RIbTZIYVV2OFlYc1NVdm45OVEtaDZwcy1tdTVwVkgyVWJTRjV5bjhITmJKXzYtQWRZWQ?oc=5
-
-66) 박형수 (기사 1건)
-- Top3: 탄핵박제
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVXVaOHhkS3M1b3JtMVBVSzk1dkpaNHowc0phY0ZFaFBsRzBiaTlJNUFnQnFObUlac29KSkJQSVk1QmpBMlYzNmhpU1lvbEczV1gycWFKdHZYVF82S1ZvQVprYy1ONy1oYUlka2R5Qy1zWlp1T2lxbmo2SmxxbGc2MzhZeE9kRXJRaFhPSlphT18tRXB1UUcwZ1N4aTFCNkk2M3pCWnRwMFk?oc=5
-
-67) 신장식 (기사 1건)
-- Top3: 지방선거 우리의 / 조국혁신당 / 조함하다
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMia0FVX3lxTFBqUmhhSm9HRldRMDZVejAtQzZmdWFWbDB4OTFZR2JXVzdwWkkwU29TN2JFeDduSDF3dloyTkcwQ08taGIyamRkNzJ2dm9VSUJpcDF0NDU3a2FNU1gyaVhoOVRGS2JNbzNIZmpR0gFvQVVfeXFMTWtzU2RXM2J0OVBPYXFqbkQ4ZEhxak9DU3RHeUFuTTRnRWF0bHFGS2JLS0QweGQtQUh1d2lTczJPcDZIWkdqc3VldW5KMk1KTVNDTkttT2VVSDZZbzN2U3NTb1Q4cEFjVEdRWDZGa3VZ?oc=5
-
-68) 안도걸 (기사 1건)
-- Top3: 스테이블코인 발행주체 / 발행주체 개방 경쟁구조 / 개방 경쟁구조 마련돼야
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMimgRBVV95cUxQM2NXTTJuSXJ1bjBfUEkyZGRjeFFHUklqd3F0NDlUemk5NjVmN3BrbnBsUm1RRHBFeWRBU2hmaTQ0dE5RaDk5MWVjN0VZeUpFenBSSmV3WUZ1a0N0MlF5YlBBZWRpRjdWMDFnTHpOSENBT3dFWWg4T3k2TzZWcnBlcDM1NHZwa2xDdHY2WXBnWHJjOEdscTZTUFdUaldZOF9vWUF0TG03c2tDekVLWjR0SGdkXzdHaG92VXRtRExTRW50azIyUHRyZ2hsVk5qRTBaWkxVMmNNQVlkS3BjdkV3TGVvdlpBTFlOX2xYclB6RmtJVlJuYk1SMHFvSEVJSnI0OXRWU2luNmRlZHEwNms2OFUwMUJjTFJCR01jblp0dDB4WVBYWmtlOUVRNjh3cUpEbUktVk8zY3NNRkw3cm9RVHVaRnVaMFlLVm5Ra2Y4a1RtaWpkTVZyc1Z0NlB4LTBhdHpnUXd0U0xqU2dVbXlZZng5cW1LQTJrYWhPd0FMQndscDNqenoxbWkxQ0k2MnJXbVc1Slo5ZUFjWEJrLWhQaUdLdEpVdU1kNVVTTmk0cTlEUWJmbk9fOTVwUjdNYkxDYWdQSjdjUHNBZjZhaEVBcGpYd0RIc1h1alpHUE9oczhta21jNVlDTFo1VE44QnZvTV9hWk12bXdNR1hPdXhhNVhBUUhXYWE0VkJ6amIwOW9Bd3E0NHZiWVNB?oc=5
-
-69) 어기구 (기사 1건)
-- Top3: 화훼농가 살리기 / 농산위 / 민주당
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMi-wJBVV95cUxONWxNZWJuUDBDU3RqeHI4WGczdTBxV3hlaVlDdzRTT0JtU0hEZWdJZUFuSEh3X3FSaEJzRU5MaTVkTVBmYkhJbVh1MHFzSmJXX0VBN3B5a0Z2UTlXOWd1RnJLY1hOQm04YzVXSy1LVG81V2lvMUc3aGdQUmNSLTVGWmxieTVKejlTQmtrLVltZWNTT25lQUZ2SVFlU1RuX3pFTWRUTlppVGdQVUFuX3dJX1hFNlBLbG9UOUdDTVNWX1U3WjNLZGdOUWtoS09MWXdJVzJyRmlXMklvcklqamV5YkVoZWh0a3htelZxSjBWWnR6TDdIVmREajVJRFlNX2ZiY2pMRmN2aHdfQ2ZFSFFqTko3V3ZYb0FlZkxCNHZtV0tYNUpROHoxMndDVWU2U0RwZ29UOFVPZUVodW9ZTk1KN3lWaHpKeTB6R0V1NUxXRjVpbEdmNHBIcFJlM1ZjeWxseTUtVHVaT1p5N1pQZVloc1VZWDVMcktWRUNN?oc=5
-
-70) 윤준병 (기사 1건)
-- Top3: 정치개혁특별위원회
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMibEFVX3lxTE1RMGtlM1h3bURRLWRzMVRWUjZHMzE4Z1lSTVhOVTVBajNlQnBKLWg5bnlyZ2lpWVZydU83UE5vaHpyckhfcGZselc5YkRoVGVIY2hTcDNJOF9aZTFwU1NJaWFCTHBNZnc3ZlZCZw?oc=5
-
-71) 윤한홍 (기사 1건)
-- Top3: 스타트업 뒷받침해야 / 정무위 국회의원 / 국회의원 금융이
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMidEFVX3lxTFBpUFhxbmR0MkxKMGlnNmE5Q1FpZlhSV1IyOElXZFlWYnVhSzJJNnFSbGtZdTdQTFpYWDNGYUpiaDZuajBTY2NCdldNRnR3NDlycE5Xb2U1NWZISGpMdko0bnBnR1JVRDhfT2ppMVJhS0NORUZI0gF0QVVfeXFMUGlQWHFuZHQyTEowaWc2YTlDUWlmWFJXUjI4SVdkWVZidWFLMkk2cVJsa1l1N1BMWlhYM0ZhSmJoNm5qMFNjY0J2V01GdHc0OXJwTldvZTU1ZkhIakx2SjRucGdHUlVEOF9PamkxUmFLQ05FRkg?oc=5
-
-72) 이광희 (기사 1건)
-- Top3: 청주서 의정보고회 / 국회의원
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiakFVX3lxTE5zRlNpSTVkVmZFS0NtSnhCVU1LazVNTDNMZzY3SVQyUm55U3o2eFpYaUpQd01WWGx5RTRZclBXVzZ0YWhpVlhla2xfaGl3eEJoNkVTOVJPOVpjNUxGUkZzdjl2RTdLb2VNdUE?oc=5
-
-73) 이기헌 (기사 1건)
-- Top3: 원내부대표단 / 구성 비서실장
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMi8wNBVV95cUxQcVZzTVdoUEZtRXV2dFZlYWNHaWJmNmxfV0FYYl9UMVF2M2l1MjlLUnBsMVBoeW1pUjhSdmlZZ0pMM0dVREc3U0pLVW1qN0tTZUY5eFg0bTMzNmFmbm8wdWNmeTAtUzlLNU16anlIZFNGamJna3lGYnVvQVRmYXNtMkh3Mi1XR0tGZW9zTlJIMmRrTnpyZUl5Sk1iajlhZGZkVy1YdDdXQW5TMVlmeFZVMXJsTUVLY0RtRm1rdVdrSkFDRnB0SHJWemlTQUdRMjU0T3prWFZON3NhNTl0c2o2TGVFLVhuRDkxTmE5ZjBXR1NUb004dnFHQXdnNzVULVN4SDhmVzNQT3FqR3dPMmx4S2dpZkNMaDloYXBBY1FlWlk2eEc4WUZmaE5MR3hCWXJZSGJtdHl2LUFVUkswZkh2blBfMFlWcERhRnFZcW93YUhkWktrdjdVYk12VS0xakxRRDVpVnczeFE4bFhSREZmQzVXbWt0Y0d2QmZGWWExNlJTSUdVT1B2T3NWbjF5Rnl5a21ONmhxTEpDMVQtVFB1WTlMcHRxYXQzM3laWVM4NHFraXlFSENKNERVYXktNlF0STdjWmdVN3pFSFBPV1FMTlA2S2tEY2tHa3JXU3JQaUhMbGdOUjZ3ZHkyMHBBZWRQcXJJ?oc=5
-
-74) 이만희 (기사 1건)
-- Top3: 논의 ZUM / 김기현 / 외교장관 의원들
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMi_AJBVV95cUxNWFEyZFl0V01pY1RycmtyeGttaDdYRlNEdkVDZnhjVGlTQXJkblQ0bmsyUUd2dHdWSnJHSlZZU0tyTmoxTDQ4T3V6QWhNVDhrTEVqcGZZU3BvYmdNZjNCV054NGFKeW1qZ3FXZjdHeXVoME9pNTBQWHEtQnlrX3lqOWdLN1FlWElEMFRmSnZxdzFJVG4taWtLY2haczZfazNOc2hybHdQcUE3ZXJ5RGVtaEtLdTlXM2xJQldTU0tkcDBHZnZfeFlvZkhFdm12cDJaRUEwcFp5N25xZGFoeEllVmhBMWdodF96bWxqbXN3dnF4WmZxODdzdHM2aFExcmpyOE1jUThobnJ1eFVuWm9mWlFpcV9NVjFTQ3I1UlJkRVZkVExIblBnM09DVTBDeGdiRmstazMxS1NRbDB6MXFGeGxocmN4MGp6ajNCV25JR1BIMG14MC0wYjd0dlNjUTR6eTZhakJRVU9BRjVKT0RNbE94UWZoLWhBVjlUbQ?oc=5
-
-75) 이상휘 (기사 1건)
-- Top3: 인사회 개최 민생 / 개최 민생 안정 지역 / 안정 지역 발전에
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMia0FVX3lxTE5USjZiMDkwN2RhaHVCYnloNU1NZmoxSUJneG1xdjB2eEIyX29FT2Q3c2ZoVHhMa1RXY19zb3hCZEx3b0pBZDJtemwyOUdDdE43X05OdnV0QmtNV0NRclVSazFOMzYwZ2V2QUtr?oc=5
-
-76) 이인선 (기사 1건)
-- Top3: 예산안에 수성구
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMi8AJBVV95cUxQdWxqNUZlbDg1UGJTdFZLWllZampTZGVtVTBUMVBwSzBZZVA0X2ZJRUZvdW90YXdZMXRncWpKcVIxcWx6cjdkN2x2NTVtTi1KRXlRWDRTUnFnaFZJZXhYYXk5Tnd1QU1fTHVsYWZRS3l3UHpPaFdZalpEUkZCNXFraDZvOXNZa0ZudnJiS25lSVFaNFVsT3E3SU5FeFV2ekFRX2ZETGJQX3lwR0pKUUdySmQ1cV9vUVNzWm5Jc3lFdzRUWjU0bm1qTzlkRk9Xdzg5X1lXVFlRVTlEdHV5ck1PVVE2ZmZzbEY4a2ZDdklFblRKaFpLZDctRUtrcV9mdHlpTnpoaWwtUnBZRDYzeVprbWFBWnVjTmF2WEJYbjlPY2p3VzY4T2hrRnh2M0hGQlNOMy1JVHVPQzZQTjNlZHN6NkN0a1lkQXdyaW9NeWxuY1BxT0VaU3htanpGc3F6ek8xUGJMeDhBYUdKaEtRdXd0eA?oc=5
-
-77) 이종배 (기사 1건)
-- Top3: 파크골프로 시장을 / 시장을 살린다 / 목행시장
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMib0FVX3lxTFA1Z3VHUVRBVUFZT194bnhzdC1mQ2xRbnJELVpCbGhvVk1fd1AxMkFNOV9MSUJTV19xMGZXclhvUmxUcHpZVE1xTmpZMU5rWldUOTlOTkUyTVdUVzBtdGpDT2tJWElPNS16eTRITURxYw?oc=5
-
-78) 임호선 (기사 1건)
-- Top3: 화훼농가 살리기 / 농산위 / 민주당
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMi-wJBVV95cUxONWxNZWJuUDBDU3RqeHI4WGczdTBxV3hlaVlDdzRTT0JtU0hEZWdJZUFuSEh3X3FSaEJzRU5MaTVkTVBmYkhJbVh1MHFzSmJXX0VBN3B5a0Z2UTlXOWd1RnJLY1hOQm04YzVXSy1LVG81V2lvMUc3aGdQUmNSLTVGWmxieTVKejlTQmtrLVltZWNTT25lQUZ2SVFlU1RuX3pFTWRUTlppVGdQVUFuX3dJX1hFNlBLbG9UOUdDTVNWX1U3WjNLZGdOUWtoS09MWXdJVzJyRmlXMklvcklqamV5YkVoZWh0a3htelZxSjBWWnR6TDdIVmREajVJRFlNX2ZiY2pMRmN2aHdfQ2ZFSFFqTko3V3ZYb0FlZkxCNHZtV0tYNUpROHoxMndDVWU2U0RwZ29UOFVPZUVodW9ZTk1KN3lWaHpKeTB6R0V1NUxXRjVpbEdmNHBIcFJlM1ZjeWxseTUtVHVaT1p5N1pQZVloc1VZWDVMcktWRUNN?oc=5
-
-79) 전재수 (기사 1건)
-- Top3: 부산시장 후보로 / 뒤따른 / 리스크
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWb1M5MGJpb0pPTEVSdlE3SE5GdGcwS08wZTlrV3YxM19zRXJ0U1JQdExHTlpOYkVHRDlicmJZSHJ2aTRlYmEycGw4Ql9keFNIMHlUQ21EblhxaW8?oc=5
-
-80) 정동만 (기사 1건)
-- Top3: 부산뉴딜 북극항로 지선 앞두고 / 정치권
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OazJmZ2l1N1VVc1c5eWl1WnQ2Vll4Sy1JUWxiT0EzcUZid0VSUWkyS3lOeFFTZUVWTVZjN09GSWN5d2pXNkJQdHdPYWhoOUUtSUNv?oc=5
-
-81) 정점식 (기사 1건)
-- Top3: 의원들은 / 구형의
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMizgJBVV95cUxOS2dwRk5GRkpzRThJZnFKZ3pMcDFYQncyU1VBWG5RdVZQY29UTFRTTnpjdEwwZC1xODVPZm12YklMclVaX0ZUNllvd2ZYZ0NWVXM2ZXJPR1RpeW5qOUJuaXVwZklhYUJha1p6WXJZZG91OUJ1NkhYaDFhUHNBLXhJbTJTOTduN3VEcV9hQ3RIOVc2dVF2alkxcWlSb2JESjl1Q2FuTVROZktsc0hCUGphazNXZkxBaXUtWXE5NUtFbE94T29LQVlsNjdTWENqMEFPakxmdzB6ZkJaM0FjUDJhS254cU9qU1J0SGhhNkZSUklGOGJnWFdjSWNoOWFtRkxKS1FWZFRNeEIwRExNSnZFTzVzaXVRcHNFMkpDMEhrbEVqeGxkZUVkQnpPMzdZY1Q2YU1aQnc2VTQyVnNGWnFhZC1HYXhXZlBja2g4WTl3?oc=5
-
-82) 조국 (기사 1건)
-- Top3: 잡다 김민석
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xRmc1YWxDdkFRcVNwc3lIbDBNME03SncwNXY1UTBWRThEVm9Ja00yUUw3ZmR6T1E0WWg4YkZaZHY4a1ZpYnNmX0lOUjF4bWFEaTg2c3pR?oc=5
-
-83) 조은희 (기사 1건)
-- Top3: 정보사 부지에 / 부지에 공공주택 / 주장에
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMitgRBVV95cUxNemRrd2RpVVpFbUxfWFBxREtVcHpWdEtZcjNGZWxhUU5GWkdLMHhoQ3E1dEpqS0xocUpzQ2lZTmtYTjVJcWRsLUtwY1BwY1FVX1A5UU1DZndJRUY0V1NuWVVTRktTTDBwcUZjTlYtN0pRR3lqamRYaUZ5alpIWmNHMEFCSXg2aXI4VG5hSFdkR1E3ajRPTjlGYVNHU0w5SlA1NXhBbk0tcXJ1SjZDT2ttQmtYWWp3VFdFMy0zVmhPOHhrTlVQczFVd0xIZ3hjaW1wTnkwTXQ1TVVoRWhBaF9VVHpIMW5GS25DUmJNaTBicU5wbXItVGV2NlRaS1J5Yzd0eFRlbnhWaHVZNHltOFJQLVlCLTZmNHdBMk15d3o2WHFQMERJeW1KWFZka01lNDVzY0hWZnhoZVdQQnBDeWVla1VWVm1md0s2THZDUWJNcG0xQUlOZW1JNHlodjFIVXhoLWZYVlBJazBHdEhvekxuQVAxREt0WFE1YVlnUDNySHhnemFxTGVjQ3BXbHp1WlN2cnh0Z0RORGwwSDlNU2ZBY2JPMVNTeWhwT0dxTGdJTHNfaGNQVmZTNFhlSi1ncDJIYXRBZGRERnBLLTZKc2RNMGprNlREZk5GZHg4V1hFaUM3VGpwaHA4eHJWRzRqdGc0N19DOE11aXI4SVBfMmJfbVdRX1JpUlZMVXhnczJQQ0V1ZTNaaXBCV2FOcHd0S3p6WGUzWl9fT3NCbnZLbmMxck1kVG1sZw?oc=5
-
-84) 조정훈 (기사 1건)
-- Top3: 김기현 / 외교장관 의원들 / 논의
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZbHZBT3BBbkF2aXVlb2JWSkpyMWNFTzFzUkEyWjFHM25KWkpBTmx5LVFFTkV0OHRlaWh6REU2WFVmbkt6VXQ2cC1LVUpWMGRkeFdWOGN3?oc=5
-
-85) 천하람 (기사 1건)
-- Top3: 이혜훈 / 위장미혼 전입 / 청약은
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiakFVX3lxTE1zSmx2LTFVdUw0RkZlTzFaVVhVUWhTdDJfbUV6NjI5UF8yanYzYmRma1RZUERocGhFYUQxNVE1ZUZ5Y3hBV1p0Q1RHRGtKZjRYclFHanE4eHAtTzE4T1lJX2JhWnhpVGpjWVHSAW5BVV95cUxNTkdFeDJsa0xVbEFYU0Z2X1Z2RmtTd2dsQW9ENmE1NTJQc3RFNlgzYlhqekFHcFh0a05iUDhybkwzWHlQTDlRYUdraC1YQzlkOWo0aExIMHJ1Q1c4MDlZU2Iwd01ZR20yVDFTVXJBQQ?oc=5
-
-86) 최은석 (기사 1건)
-- Top3: 리더십 대구의 일하는 / 소통 공감 실행 성과 리더십 대구의 / 국회의원
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiuwNBVV95cUxOTHZPMWktalZFVUtqc3hwTzhwZjhjM1E1WVZmaVpBYmRQUnY5VzJabU83c2NLTkxab0ZMZEhfSWNWdXUybUxJZ3hqVGlOVlpPTVYySXo5RWs2SFRpckJPUGlqSWFiVEJHQ2k2dlY2WnM1WHQ5blZaSGRXYXNFZE5iT2ROZ0xKMk8xSHhOWmVqQmd6VlBvTGg2VkJmY1d5bWpQc1Y1MEYxcXo0bUU3QzBkZFNBelViV0RVTjZuOXBtcldwU1JVQU4zandDTW12ektiY0xVNEpUX1hza3VRaTk3SDV4Ymx4ZFdJMU9WR0ppQURqMjlpN1h2QV9BTW1OU1BjRVBqX2RZWmNTbEM4NXp2NU52TE9pTU5sWGhLSDY5WHZzdVJhaVJfQXB5clBKWFRuUC1WOWZCRkxocEViSC1QcXpiTEVBLTdXSVQ4UnB1azRlYmlacWozaUNMNm8wRG92ZUw0MEhlVDRabXZnYlZGNHlGRWcyRmxoRER0LUdQeUdodnJRc25GTmZXX2V0N1Q5MGo5MWpSM2N5U245Q2pmOTBfNzh0U3kyQXVvcHdMaDNhVG8xaDl3YzdFbw?oc=5
-
-87) 추경호 (기사 1건)
-- Top3: 토호세력
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMivgFBVV95cUxOTnhPd0txM0s5SWlYUXJXc0JuM09ONEQ2TlVmN3VRM3F5LUd5QmhQUzBtYk9udFE3VlY3REFqcWVPMFFWcEp2TFdRTkhha25LXzVOaDBSNFE2dWdzaUx6a1RJaGgwaDV1cE9oaWRfVlI0T1ZxMGhOVWptd0twZmFFT0RYZkVDRE95ZWt1SnBkOHRkVFFHWVhTNEY2RnB5djAwY1QwNzdRNmpBbk1RQThNOTBheHBaeDlFUkNBbXhn?oc=5
-
-88) 허종식 (기사 1건)
-- Top3: 민주당 돈봉투 / 무죄에
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMimwNBVV95cUxOQnRzQzkwUFo5SUhQNFVlbnVDd24tVXlmcFo4d3JhRFZPSU1iOTFhS2JMcGN4V0hwZjFVeEZ5Rzc0SHpXcmJwZU9vX2dZdllfX3hGQUgtZ2VRUXVUcWRCdFRrM1J0OVNiR3JheEJOVGs1MENfWjMzQXh4eHJuUkw5cExjc3E5QmhIQTJZUTM1Wm5LTlVRekdvU1otT1hQLUlMUXVHdGZhMUthVFlVclR1TzNDWUVNYWdDXzY2TGdBRFBtcmw2NDIwdUZnelBwaE9wSDRQN29fR0M2VnRPOXUxSmdWMzc4RnQ2T2pYZWE3SmJWaWU0QlY3N2FxZEVJWHRTYmZXTmNkR1JxRENGMnR1aUpnbUt1SjNRaTc3Y2dKSUVveHJILXJ6SVBqYkRFWVNkaVZRZWZTN3NRNF9Oa1pYWjVoaGE4NXF4Mm5EZVBDdlJnVmlFbFd3STNDdG1VbHNuMlZwZXZkb1VOU3VlWkU2VVpWN2ZkNDBSbFRTNDJjQ0YwTlYwVUR0aWlRa0dPa3BaTUNkQjA0cThjbjA?oc=5
-
-89) 황운하 (기사 1건)
-- Top3: 일 이어 이춘희 / 개월여 앞두고 / 앞두고 세종은
-- 한줄 해석: (자동 문장) 오늘은 이 Top 키워드가 해당 인물 기사에서 반복 노출된 흐름이에요.
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMibEFVX3lxTE1faGlTX05OeTdzcWFYOUVUV1lsUzRhZmJuU0daM0lwQlk2dktsUlBLeUhaSllzcHdaclR5SFlja0RVNERGYmM0U0VMQl9tM0FMLW1ZMlhiWWZNNjJIdFdOT2hYRlhQZWMzUFM0ag?oc=5
-
-────────────────────────
-[키워드 변동] 전날 대비 변화 (Top10 기준)
-
-※ 전날(2026-01-09) 키워드 파일이 아직 없어서, 오늘은 ‘변동’ 계산을 생략했어요.
-  내일부터 NEW/UP/DOWN/OUT이 자동으로 채워져요.
-
-────────────────────────
-[오늘의 코멘트] (짧게)
-- 오늘은 ‘국회의원 / 민주당 / 미래를 이야기하다’가 공통으로 잡혔어요. 내일부터는 전날 대비(NEW/UP/DOWN/OUT)도 같이 쌓이면서 흐름이 더 또렷해져요.
-- 저는 내일도 이 공통 키워드를 우선 모니터링할 생각이에요.
-
-#정치 #키워드레이더 #키워드변동 #데일리리포트 #백승아 #배현진 #김교흥 #김민석 #김선교 #김문수 #박성훈 #임오경 #장철민 #이재명 #강선우 #김병기 #장동혁 #권향엽 #나경원 #신정훈 #이개호 #이성권 #이수진 #이준석 #강명구 #김기현 #김영배 #김원이 #김준형 #박정하 #박지원 #박홍근 #송기헌 #양부남 #우원식 #이용우 #이원택 #임종득 #전용기 #정연욱 #정춘생 #조정식 #주진우 #진성준 #한준호 #강대식 #강민국 #강준현 #고동진 #구자근 #김남근 #김대식 #김도읍 #김민전 #김병주 #김성회 #김승수 #김영진 #김용만 #김은혜 #김장겸 #김태선 #김현정 #남인순 #문대림 #박선원 #박수민 #박은정 #박정 #박형수 #신장식 #안도걸 #어기구 #윤준병 #윤한홍 #이광희 #이기헌 #이만희 #이상휘 #이인선 #이종배 #임호선 #전재수 #정동만 #정점식 #조국 #조은희 #조정훈 #천하람 #최은석 #추경호 #허종식 #황운하
+#정치 #키워드레이더 #데일리리포트 #문정복 #강득구 #이성윤 #정청래 #백혜련 #한병도 #이준석 #조국 #강선우 #김병기 #이재명 #장동혁 #장경태 #박수현 #박정 #진성준 #이건태 #서왕진 #진선미 #이개호 #최보윤 #김선교 #송언석 #김병주 #박수영
