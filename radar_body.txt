@@ -1,5 +1,5 @@
 [이슈 급등 리포트 | 01.11]
-(기준: 전일 기사 10건 이상 인물만 / 기사 요약 없음)
+(기준: 전일 기사 50건 이상 인물만 / 기사 요약 없음)
 ※ 오늘은 ‘키워드 나열’ 대신, 제목/엮인 이름/쟁점만 뽑아봤어요.
 
 🔥 오늘 급등 TOP3
@@ -8,263 +8,93 @@
 ────────────────────────
 
 1) 백혜련 (84건) 🔥
-- 헤드라인 배틀(5)
+- 헤드라인 배틀(10)
   · 일간경기: 민주당 새 원내대표 한병도‥ 혼란 수습할 것 - 일간경기
   · 데일리저널: 한병도 의원, 더불어민주당 신임 원내대표 선출 - 데일리저널
   · 시사포커스: 포토 원내대표 선거에 출마한 백혜련 후보 - 시사포커스
   · 시사포커스: 포토 손을 맞잡고 인사하는 한병도-진성준-박정-백혜련 - 시사포커스
   · 강릉뉴스: 속보 더불어민주당 새지도부 선출...원내대표 한병도와 백혜련 결선 진출/최고위원은 강득구, 문정복, 이성윤 선출 - 강릉뉴스
+  · 한겨레: 한병도·백혜련, 민주 원내대표 선거 결선 진출 - 한겨레
+  · 뉴스N제주: 속보 민주당 새 원내대표에 한병도…결선서 백혜련 꺾어 - 뉴스N제주
+  · 서울Pn: 與원내대표에 3선 한병도 유능한 여당 모습 보여드리겠다 - 서울Pn
+  · 뉴스1: 백혜련과 악수하는 한병도 - 뉴스1
+  · 에너지경제신문 모바일: 與 원내대표에 한병도…결선 투표서 백혜련 꺾고 선출 - 에너지경제신문 모바일
 - 함께 엮인 이름 TOP3: 한병도 / 박정 / 진성준
 - 논쟁 포인트(3): 인사 / 청문회 / 수사
 - 한줄 해석: 
-- 근거 키워드(Top7): 민주당 원내대표 / 원내대표 보궐선거 / 원내대표 후보와 / KBC 광주방송 / 원내대표 후보들 / 원내대표 선출을 / 원내대표 선출 혼란
+- 근거 키워드(Top10): 민주당 원내대표 / 원내대표 보궐선거 / 원내대표 후보와 / KBC 광주방송 / 원내대표 후보들 / 원내대표 선출을 / 원내대표 선출 혼란 / 원내대표 선거에 / 원내대표 한병도 / 정청래 민주당
 - 링크: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OS0xtTDY3aXlfRUM1YnBjdVZKN0hIXzVGaVpBY0ZRWHVhejkwcjFfcWI4TnFCb00zVEFSOEZZUi04OU9nVHAxQUNCMDVDMzRBWk94V1R1RE9mYnNLMndNcm5BWVNDbVJm?oc=5
 
 2) 장경태 (63건) 🔥
-- 헤드라인 배틀(5)
+- 헤드라인 배틀(10)
   · 경향신문: 경찰, 성추행 의혹 장경태 의원 조사 - 경향신문
   · MBC 뉴스: 성추행 의혹 장경태 의원 경찰 조사‥고소인 영상에 명백히 찍혀 - MBC 뉴스
   · 국민일보: 고소 44일만에… 경찰, 장경태 의원 비공개 조사 - 국민일보
   · 세계일보: 보좌진 성추행 의혹 장경태 경찰 조사 - 세계일보
   · 천지일보: 경찰 성추행 의혹 장경태 소환조사 - 천지일보
+  · 펜앤마이크: 경찰, 장경태 성추행 의혹 피의자 조사...추가 소환 여부 검토 - 펜앤마이크
+  · OBS경인TV: 경찰, 장경태 의원 성추행 의혹 소환조사 - OBS경인TV
+  · OBS경인TV: 경찰, 성추행 의혹 장경태 의원 어제 비공개 조사 - OBS경인TV
+  · 프레시안: 성추행 의혹 장경태, 비공개 경찰 출석…추가 조사 가능성 - 프레시안
+  · 네이트: 성추행 의혹 장경태 소환…짜집기된 영상과 왜곡된 주장 반박 - 네이트
 - 함께 엮인 이름 TOP3: (데이터 부족)
 - 논쟁 포인트(3): 의혹 / 청문회 / 수사
 - 한줄 해석: 
-- 근거 키워드(Top7): 보좌진 성추행 / 조사 추가 소환조사 / 소환조사 가능성도 / 비공개 소환 혐의 / 비공개 경찰조사 / 소환조사 OBS / 조사 고소인
+- 근거 키워드(Top10): 보좌진 성추행 / 조사 추가 소환조사 / 소환조사 가능성도 / 비공개 소환 혐의 / 비공개 경찰조사 / 소환조사 OBS / 조사 고소인 / 초짜리 영상 / 조사 고소장
 - 링크: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGZGMxVFhnX0FIV1llR0JqNTZOWkxOZDdnYXBTRVNScmxtMkdOUnNOUTAtZXRHUFMxZVB1ZGhqQzE0a0tVOTFtM3F3RDA1WDlqb0NWMXF6eGpNbEthTWlv0gFfQVVfeXFMUEZkYzFUWGdfQUhXWWVHQmo1Nk5aTE5kN2dhcFNFU1JybG0yR05Sc05RMC1ldEdQUzFlUHVkaGpDMTRrS1U5MW0zcXdEMDVYOWpvQ1YxcXp4ak1sS2FNaW8?oc=5
 
 3) 이성윤 (61건) 🔥
-- 헤드라인 배틀(5)
+- 헤드라인 배틀(10)
   · 경향신문: 여당 신임 최고위원 강득구·이성윤·문정복…정청래 체제 힘 실렸다 - 경향신문
   · 투데이신문: 민주당 최고위원 보선, 친정청래계 승리…강득구·이성윤·문정복 당선 - 투데이신문
   · 전북일보 인터넷신문: 한병도 원내대표·이성윤 최고위원…전북, 민주당 지도부 핵심에 - 전북일보 인터넷신문
   · MBC 뉴스: 민주당 새 원내대표에 한병도‥최고위원 강득구·이성윤·문정복 선출 - MBC 뉴스
   · 조세일보: 민주당, 새 원내대표에 한병도...최고위원 이성윤·강득구·문정복 - 조세일보
+  · 전북일보 인터넷신문: 속보 민주당 최고위원 이성윤·원내대표 한병도 - 전북일보 인터넷신문
+  · 전북일보 인터넷신문: 이성윤 신임 민주당 최고위원 내란 청산·사법개혁 완수하겠다 - 전북일보 인터넷신문
+  · 경향신문: 민주당 최고위원, 강득구·이성윤·문정복 선출···친정청래 우위 - 경향신문
+  · 일간경기: 민주당 최고위원 보선‥ 강득구·이성윤·문정복 - 일간경기
+  · 한겨레: 강득구·이성윤·문정복, 민주 최고위원 선출 - 한겨레
 - 함께 엮인 이름 TOP3: 강득구 / 문정복 / 정청래
 - 논쟁 포인트(3): 발언 / 인사 / 청문회
 - 한줄 해석: 
-- 근거 키워드(Top7): 민주당 최고위원 / 최고위원에 / 최고위원 후보자 / 최고위원 선출 친청 / 최고위원 보궐선거 / 최고위원 보선 / 최고위원 내란
+- 근거 키워드(Top10): 민주당 최고위원 / 최고위원에 / 최고위원 후보자 / 최고위원 선출 친청 / 최고위원 보궐선거 / 최고위원 보선 / 최고위원 내란 / 인터넷신문 민주당 / 민주당 지도부 / 지도부 완전체
 - 링크: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtWHhpQzhGeFJ4UzJNM1pIOXA0YUNDalRWTll4M2x5dkhBV0paZlUzOHJCSlZOZVI5aGZqSDRfZ2p6dmxaVUYwckJGdGdHUmZJUWtQclVSZWd3UdIBX0FVX3lxTE5CUXNBMDFkQmdoazUxX2hFc1dpYlpsRW12QzMzeDFIRmVUZFZ4WmZwd0pvS0pOc3FLcVF6cjR1Ylc4ZWNMaFJEeVIwbm5RTllsUHJyWVhkNWxXbXBZZFNZ?oc=5
 
 4) 문정복 (60건) 🔥
-- 헤드라인 배틀(5)
+- 헤드라인 배틀(10)
   · 한겨레: 당권파 둘 최고위원 선출, 정청래 체제 힘 얻어…1인1표제 추진 탄력 - 한겨레
   · 경향신문: 여당 신임 최고위원 강득구·이성윤·문정복…정청래 체제 힘 실렸다 - 경향신문
   · 투데이신문: 민주당 최고위원 보선, 친정청래계 승리…강득구·이성윤·문정복 당선 - 투데이신문
   · MBC 뉴스: 민주당 새 원내대표에 한병도‥최고위원 강득구·이성윤·문정복 선출 - MBC 뉴스
   · 조세일보: 민주당, 새 원내대표에 한병도...최고위원 이성윤·강득구·문정복 - 조세일보
+  · 국제신문: 민주 최고위원에 강득구·이성윤·문정복…친청 2명 선출 - 국제신문
+  · v.daum.net: 민주당 최고위원, 강득구·이성윤·문정복 선출···친정청래 우위 - v.daum.net
+  · 경기일보: 민주 최고위원 보선, 강득구 1위…문정복까지 경기권 2명, 지도부 포진 - 경기일보
+  · 경향신문: 민주당 최고위원, 강득구·이성윤·문정복 선출···친정청래 우위 - 경향신문
+  · 일간경기: 민주당 최고위원 보선‥ 강득구·이성윤·문정복 - 일간경기
 - 함께 엮인 이름 TOP3: 강득구 / 이성윤 / 정청래
 - 논쟁 포인트(3): 발언 / 인사 / 청문회
 - 한줄 해석: 
-- 근거 키워드(Top7): 민주당 최고위원 / 최고위원에 / 최고위원 선출 정청래 / 최고위원 선출 친청 / 최고위원 보궐선거 / 최고위원 보선 / 최고위원 후보자
+- 근거 키워드(Top10): 민주당 최고위원 / 최고위원에 / 최고위원 선출 정청래 / 최고위원 선출 친청 / 최고위원 보궐선거 / 최고위원 보선 / 최고위원 후보자 / 지도부 완전체 / 원내대표에 한병도 최고위원
 - 링크: https://news.google.com/rss/articles/CBMidEFVX3lxTE1qbGdhQlJ6MFpWeC1BQTlxdEhDWk5uRnFsMDJiZzVpcDVxRlNXbmRqNEZJNjFyZVZaVmg5cUl3eHVjZ1BJVGdUWmhkWGQ1TUdoQzdzZnNYaGp5ZURKS0NTWERzYnA0SFJDX0d1ZTZPMVF0WkRG?oc=5
 
-5) 강득구 (54건) 🔥
-- 헤드라인 배틀(5)
+5) 강득구 (53건) 🔥
+- 헤드라인 배틀(10)
   · 글로벌뉴스통신GNA: 강득구 더불어민주당 최고위원 당선 - 글로벌뉴스통신GNA
   · 경향신문: 여당 신임 최고위원 강득구·이성윤·문정복…정청래 체제 힘 실렸다 - 경향신문
   · 투데이신문: 민주당 최고위원 보선, 친정청래계 승리…강득구·이성윤·문정복 당선 - 투데이신문
   · MBC 뉴스: 민주당 새 원내대표에 한병도‥최고위원 강득구·이성윤·문정복 선출 - MBC 뉴스
   · 기호일보: 민주당 신임 원내대표 한병도 … 최고위원 강득구 · 문정복· 이성윤 - 기호일보
+  · 국제신문: 민주 최고위원에 강득구·이성윤·문정복…친청 2명 선출 - 국제신문
+  · 경기일보: 민주 최고위원 보선, 강득구 1위…문정복까지 경기권 2명, 지도부 포진 - 경기일보
+  · v.daum.net: 민주당 최고위원, 강득구·이성윤·문정복 선출···친정청래 우위 - v.daum.net
+  · 경향신문: 민주당 최고위원, 강득구·이성윤·문정복 선출···친정청래 우위 - 경향신문
+  · 일간경기: 민주당 최고위원 보선‥ 강득구·이성윤·문정복 - 일간경기
 - 함께 엮인 이름 TOP3: 문정복 / 이성윤 / 정청래
 - 논쟁 포인트(3): 발언 / 인사 / 청문회
 - 한줄 해석: 
-- 근거 키워드(Top7): 민주당 최고위원 / 최고위원에 이성윤 문정복 / 최고위원 후보자 / 원내대표에 한병도 최고위원 / 최고위원 선출 정청래 / 최고위원 선출 친청 / 최고위원 보궐선거
+- 근거 키워드(Top10): 민주당 최고위원 / 최고위원에 이성윤 문정복 / 원내대표에 한병도 최고위원 / 최고위원 선출 정청래 / 최고위원 선출 친청 / 최고위원 보궐선거 / 최고위원 보선 / 최고위원 후보자 / KBC 광주방송 / 글로벌뉴스통신 GNA
 - 링크: https://news.google.com/rss/articles/CBMidEFVX3lxTE8yTnZPNHMyRk53YVdac21WQ1EwNWU5RXk5cUJ6YWx6OW1qMjV5LW1LcVF5VkJmUlFEYy1Td0dzOGlGOUdFSzI4YWoxLVIzeEZYblNsQnpSYW5RWWxYcEFXSmZCZ3JrT2hYQ3hXeTZQcnBBSjhx?oc=5
 
-6) 이건태 (44건) 🔥
-- 헤드라인 배틀(5)
-  · 브레이크뉴스: 민주당 신임 최고위원, 강득구·이성윤·문정복 선출…친명 이건태 탈락 - 브레이크뉴스
-  · 스트레이트뉴스: 민주당 최고위원 강득구·이성윤·문정복...친명 이건태 고배 - 스트레이트뉴스
-  · 네이트: 與최고위 선거 강득구·이성윤·문정복 當…친명 이건태 落 - 네이트
-  · 아시아투데이: 與최고위 선거 강득구·이성윤·문정복 當…친명 이건태 落 - 아시아투데이
-  · 뉴시스: 이건태 의원 격려하는 정청래 대표 - 뉴시스
-- 함께 엮인 이름 TOP3: 이성윤 / 강득구 / 문정복
-- 논쟁 포인트(3): 인사 / 청문회 / 수사
-- 한줄 해석: 
-- 근거 키워드(Top7): 최고위원 / 강득구 이성윤 문정복 / 인사하는 / 민주당 / 합동연설회 자리한 / 후보자 / 보궐선거
-- 링크: https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IbkNFQjhiMjNTNk8tSU80ekd2cWRQSXZlcUlIX2l1R1FaYl81Q3dPVFdaT2VMcEU1elhEQlZIMGJ0Zw?oc=5
-
-7) 박정 (36건) 🔥
-- 헤드라인 배틀(5)
-  · 시사포커스: 포토 원내대표 선거에 출마한 박정 후보 - 시사포커스
-  · 시사포커스: 포토 손을 맞잡고 인사하는 한병도-진성준-박정-백혜련 - 시사포커스
-  · gukjenews.com: 박수치는 한병도-진성준-박정-백혜련 - gukjenews.com
-  · 데일리안: 與 원내대표 한병도·백혜련 결선투표…진성준·박정 탈락 - 데일리안
-  · 뉴시스: 낙선한 진성준-박정 후보와 인사하는 한병도-백혜련 - 뉴시스
-- 함께 엮인 이름 TOP3: 백혜련 / 진성준 / 한병도
-- 논쟁 포인트(3): 인사 / 특검 / 징계
-- 한줄 해석: 
-- 근거 키워드(Top7): KBC 광주방송 / 원내대표 / 민주당 / 박수치는 / 한병도 백혜련 / 악수하는 / 발표하는
-- 링크: https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cby1ueUp5VXh6MnNmTUFYN2FFYW44WThXNzJ2Q1FuSDlzM1phSm5hYjdkQWRXNW4yQ2tCMm1rbXNOd21zMFUxT1NMT0VqeDRMMTlRYmFvZVJldHo3eXk1VWxvOWhBQjJsc1hrT29MWQ?oc=5
-
-8) 박수현 (35건) 🔥
-- 헤드라인 배틀(5)
-  · 굿모닝충청: 박수현 김병기, 당 대표 비상 징계 가능성도 열려 있다 - 굿모닝충청
-  · 굿모닝충청: 박수현 김병기, 애당의 길이 무엇인지 깊이 고민하라 - 굿모닝충청
-  · 머니S: 민주당 김병기, 애당의 길 고민해보길… 자진탈당 촉구 - 머니S
-  · 일간경기: 민주당, 김병기 향해 애당의 길 고민하라 압박 - 일간경기
-  · 뉴스피릿: 與 지도부, 김병기에 자진 탈당 요구…제명 요구 임박 - 뉴스피릿
-- 함께 엮인 이름 TOP3: 김병기
-- 논쟁 포인트(3): 징계 / 특검 / 청문회
-- 한줄 해석: 
-- 근거 키워드(Top7): 민주당 수석대변인 / 수석대변인 기자간담회 / 민주당 김병기 / 민주당 애당의 / 김병기에 민주당 / 민주당 자진 / 요구한 민주당
-- 링크: https://news.google.com/rss/articles/CBMickFVX3lxTE5ncV9BNmp1Z3J1cHRLdDNaa2o0cG4zRU4wS3RzNFVDZXdTQlg2RjZYSlJDMjFkWmMxRXdQTUFTUzhjbDgxN0FEU09IaS1JNlhiWUtVR19rSUp2aWFfNC1KR0ZMNzlIVjFWaTFSckFkOTFoZw?oc=5
-
-9) 진성준 (31건) 🔥
-- 헤드라인 배틀(5)
-  · 시사포커스: 포토 원내대표 선거에 출마한 진성준 후보 - 시사포커스
-  · 시사포커스: 포토 손을 맞잡고 인사하는 한병도-진성준-박정-백혜련 - 시사포커스
-  · 네이트: 원내대표 낙선 진성준 당 위기 돌파에 미력 보태겠다 - 네이트
-  · 머니투데이: 원내대표 낙선 진성준 당 위기 돌파에 미력 보태겠다 - 머니투데이
-  · gukjenews.com: 박수치는 한병도-진성준-박정-백혜련 - gukjenews.com
-- 함께 엮인 이름 TOP3: 박정 / 백혜련 / 한병도
-- 논쟁 포인트(3): 인사 / 특검 / 청문회
-- 한줄 해석: 
-- 근거 키워드(Top7): KBC 광주방송 / 원내대표 / 광주방송 민주당 / 박수치는 / 후보자 / 손잡은 민주당 / 선거에 출마한
-- 링크: https://news.google.com/rss/articles/CBMickFVX3lxTE5VTFQzUWwxNE51VHRSTDdKNVNNQlFFeWY3MnlPOFUxNXZpYU9pOEhZLUE3T1NOdEV1MU1pTWhCMmM4TkVBbVR6R09UNEZnc2JjdkppZGZlNExfaFYwYXNYTENvTHJpdGk1S3R0QVJRQ1JtZ9IBckFVX3lxTE5VTFQzUWwxNE51VHRSTDdKNVNNQlFFeWY3MnlPOFUxNXZpYU9pOEhZLUE3T1NOdEV1MU1pTWhCMmM4TkVBbVR6R09UNEZnc2JjdkppZGZlNExfaFYwYXNYTENvTHJpdGk1S3R0QVJRQ1JtZw?oc=5
-
-10) 서왕진 (28건) 🔥
-- 헤드라인 배틀(5)
-  · 문화일보: 돈 공천 추방법으로 특정당 독점·부패 차단해야…민주당 때린 조국당 - 문화일보
-  · 헤럴드경제: 혁신당, 한병도 원내대표, 개혁진보 연대 복원하자 - 헤럴드경제
-  · 서울뉴스통신: 조국혁신당, 한병도 신임 원내대표 향해 정치개혁·개헌 톱니바퀴 돌려야 - 서울뉴스통신
-  · 문화일보: 혁신당 與 신임 원내대표 과업 막중…진보연대 복원 가장 시급 - 문화일보
-  · 부산일보: 국힘, 與 한병도 원내대표 선출에 협치국회 복원 최선 다하자 - 부산일보
-- 함께 엮인 이름 TOP3: 한병도 / 이준석 / 송언석
-- 논쟁 포인트(3): 의혹 / 수사 / 청문회
-- 한줄 해석: 
-- 근거 키워드(Top7): 정치개혁 개헌 톱니바퀴 / 톱니바퀴 돌려야 / 한병도 원내대표 / 원내대표에 정치개혁 개헌 / 원내대표 선출에 / 발표하는 조국혁신당 / 한병도 혁신당 정치개혁 개헌
-- 링크: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHc0V2enBUZVc5dU96RVZsSXJHSDhZc1B4RWl0alV5dFM3a293cFF4SVN3OW0xcDBheUptMWY0MHJqVTZ4eDZBRDl6OXBaQXdm?oc=5
-
-11) 진선미 (28건) 🔥
-- 헤드라인 배틀(5)
-  · 월요신문: 민주당 신임 원내대표에 한병도 3선 의원…결선투표 끝 당선 - 월요신문
-  · gukjenews.com: 손들어 인사하는 정청래-한병도-진선미 - gukjenews.com
-  · 네이트: 신임 원내대표 발표하는 진선미 선관위원장 - 네이트
-  · 네이트: 정청래-한병도-진선미, 새로운 시작 - 네이트
-  · 뉴시스: 신임 원내대표 발표하는 진선미 선관위원장 - 뉴시스
-- 함께 엮인 이름 TOP3: 한병도 / 정청래 / 백혜련
-- 논쟁 포인트(3): 인사 / 발언 / 청문회
-- 한줄 해석: 
-- 근거 키워드(Top7): 민주당 원내대표 / 민주당 중앙당선관위원장 / 원내대표 보궐선거 / 원내대표 발표하는 / 보궐선거 선관위원장 / 원내대표 한병도 백혜련 / 원내대표에 한병도
-- 링크: https://news.google.com/rss/articles/CBMiakFVX3lxTFBFZzdnNjZrejZST0FRQ3c4bXF1U3QwLXRjTERrc2lVX0J0Ump4S005S21UYWJYZkQ1OFpiM3NvSFZUc0cxVGNabEJvc2NTdzE4ZGhFdmZxVVRqQzhYZ3JMQUhLeF95eTlIaWc?oc=5
-
-12) 강선우 (25건) 🔥
-- 헤드라인 배틀(5)
-  · 한국일보: 강선우 1억 공천헌금 의혹 김경 시의원 경찰 출석…쏟아지는 질문에 묵묵부답 - 한국일보
-  · 조선일보: 김경·강선우 압수수색 영장에 뇌물죄 등 3개 혐의 - 조선일보
-  · 경향신문: 1억 공천헌금 의혹 강선우·김경 압색···의혹 2주 만에 강제수사 착수 - 경향신문
-  · 경향신문: 공천헌금 1억 의혹 강선우·김경 압색 - 경향신문
-  · 한겨레: 강선우 1억 공천헌금 김경 오늘 오후 입국…경찰, 출금 예정 - 한겨레
-- 함께 엮인 이름 TOP3: (데이터 부족)
-- 논쟁 포인트(3): 의혹 / 압수수색 / 수사
-- 한줄 해석: 
-- 근거 키워드(Top7): 주거지 압수수색 / 압수수색 공천헌금 / 의원 김경 시의원 / 주만에 강제수사 / 압수수색 본격 강제수사 / 텔레그램 재가입 / 영장에 뇌물죄
-- 링크: https://news.google.com/rss/articles/CBMiakFVX3lxTE1MdkZWcjBMV3Vuam43bnltdktFdUREdVk5M0FLYmo0Vm5LNTI1eW5KZ0xmZi0wYWZDZERJdEZabU5KWl92eXJtQnNYdlB4dEh4clFYRVF6RmZWZHhsS3hCekE5c2xfSHpaNEE?oc=5
-
-13) 이개호 (17건) 🔥
-- 헤드라인 배틀(5)
-  · 시사의창: 이개호 국회의원, 광주·전남 통합 재차 강조…힘 모아야 압도적 이익 - 시사의창
-  · MSN: 민주 이개호 광주·전남통합, 소모적 경쟁보다 힘모아야 - MSN
-  · v.daum.net: 이개호 與의원 광주·전남 통합은 기정사실화…李대통령과 공감대 - v.daum.net
-  · 전남타임스: 광주·전남 통합은 실리…이개호 힘 모아야 - 전남타임스
-  · MSN: 이개호 광주·전남 통합은 실리…소모적 경쟁 대신 힘 모아야 - MSN
-- 함께 엮인 이름 TOP3: (데이터 부족)
-- 논쟁 포인트(3): 청문회 / 수사 / 의혹
-- 한줄 해석: 
-- 근거 키워드(Top7): 광주 전남 통합은 / 광주 전남 행정통합 / 통합은 실리 소모적 / 소모적 경쟁보다 / 경쟁보다 힘모아야 / 통합은 실리적인 / 통합은 기정사실화 대통령과
-- 링크: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LSkZLd0E0YTBUYzRjdEhLZ2YzNzdoTVJreWpTTjZuYTcycXlVSk1SZ0htVUl5bnQzNnZZSmIxUHFZSE8wYy16emdnbDNCNlFxMnQtRg?oc=5
-
-14) 김교흥 (14건) 🔥
-- 헤드라인 배틀(5)
-  · 경인매일: 김교흥 인천 국회의원서구갑, 출판기념회 개최 - 경인매일
-  · 경인일보: 인천시장·교육감 잠룡들 책안에 마이웨이 - 경인일보
-  · v.daum.net: 김교흥 사실상 출마 박찬대 신중… 민주당 인천시장 후보 윤곽 잡힐까 - v.daum.net
-  · 아시아뉴스통신: 김교흥 인천 국회의원서구갑, 김교흥의 길 출판기념회 개최! - 아시아뉴스통신
-  · v.daum.net: 여권 핵심 집결한 김교흥 출판기념회…메가시티 인천의 청사진 - v.daum.net
-- 함께 엮인 이름 TOP3: 박찬대
-- 논쟁 포인트(3): 청문회 / 수사 / 의혹
-- 한줄 해석: 
-- 근거 키워드(Top7): 거물급 총집결 / 민주당 거물급 / 출판기념회서 인천을 / 인천을 한국의 / 한국의 메가시티 세계 / 한국의 메가시티이자 / 국회의원 인천 서구갑
-- 링크: https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3VGJHREpTT0laZk5VV0JoeWlfZnNjRTl5bUhJcEpIN3cxZGNBaGh2UGo4djBSQ1JIaEowalIxejFZWkhPUEVvY01xMjFSeXFzUmxrNWJkRmNXakQzc19VbjFYWS1aTE9u?oc=5
-
-15) 최보윤 (14건) 🔥
-- 헤드라인 배틀(5)
-  · 문화일보: 국힘 이혜훈, 공직 부적격 끝판왕… 통일교 돈줄 고액 후원 의혹도 - 문화일보
-  · 네이트: 국민의힘 李대통령 무인기 중대범죄 발언, 北 주장 키워주는 꼴 - 네이트
-  · 네이트: 국힘 이혜훈, 세 아들 병역·취업 특혜 의혹…부적격 끝판왕 - 네이트
-  · v.daum.net: 국민의힘, 李 무인기 중대범죄 주장에 북한 눈치보는 자충수 - v.daum.net
-  · 네이트: 최보윤 대변인 현안 브리핑 - 네이트
-- 함께 엮인 이름 TOP3: (데이터 부족)
-- 논쟁 포인트(3): 의혹 / 발언 / 수사
-- 한줄 해석: 
-- 근거 키워드(Top7): 국민의힘 수석대변인 / 수석대변인 기자회견 / 국민의힘 민주당 / 국민의힘 대통령 / 눈치보는 자충수 / 의혹에 경찰은 / 경찰은 방패막이
-- 링크: https://news.google.com/rss/articles/CBMiUEFVX3lxTE01eERuQkRwR2RpMmJQdlZzQzYyZ3ZwTGVfdzdCRi00a0tmdk5QTG9fZ19tdFhWSk5hSDhuX1hVeHJjdFJtUnhxWjB1S1dkcmJ3?oc=5
-
-16) 김선교 (13건) 🔥
-- 헤드라인 배틀(5)
-  · 헬스경향: 사면초과 김선교의원,의정보고 성황 위기 돌파 존재감 부각 연수땐 썰렁 - 헬스경향
-  · v.daum.net: 김선교 경기도당위원장 공정 공천 약속... 2등은 없다, 선거 반드시 이겨야 - v.daum.net
-  · 경인일보: 김선교, 의정보고회에 3천명 운집… 지방선거 출정식 방불케 해 - 경인일보
-  · 글로벌이코노믹: 김선교 국회의원, 여주시·양평군 2026년 지역 발전 구상 제시 - 글로벌이코노믹
-  · 더퍼블릭: 김선교 경기도당 위원장, 양평서 3천여 명 운집한 대규모 신년연수 성황 - 더퍼블릭
-- 함께 엮인 이름 TOP3: (데이터 부족)
-- 논쟁 포인트(3): 의혹 / 특검 / 청문회
-- 한줄 해석: 
-- 근거 키워드(Top7): 여주시 양평군 당원협의회 / 당원협의회 신년연수 / 경기도당 위원장 / 신년연수 의정보고회 / 국민의힘 여주양평당협 / 대규모 신년연수 / 양평 공흥지구
-- 링크: https://news.google.com/rss/articles/CBMiZEFVX3lxTE10YkRRM1FxREE3cVRDVTdOdmlMcUJKYmhDS1ZHQzFTU19Kbkk0LWFOTkkxTVlXUFkzQ0xLNm9jZFZCNzY2ZnRhZ2s4RHhqOUZjeTZJUkVzei02TUdHWHpqWGg3eVg?oc=5
-
-17) 김병기 (12건) 🔥
-- 헤드라인 배틀(5)
-  · 한겨레: 민주, 김병기에 탈당 요구…애당의 길 고민하길 - 한겨레
-  · JTBC: 민주당, 김병기에 자진 탈당 요구…비상 징계 제명 압박 - JTBC
-  · 중앙일보: 與지도부 김병기 탈당 공개요구…애당의 길 고민해야 - 중앙일보
-  · 오마이뉴스: 민주당, 김병기 향해 애당의 길 깊이 고민해보길 - 오마이뉴스
-  · MBC 뉴스: 민주당, 김병기 자진 탈당 안 할 경우 비상 징계 등 모든 가능성 열려있어 - MBC 뉴스
-- 함께 엮인 이름 TOP3: (데이터 부족)
-- 논쟁 포인트(3): 징계 / 의혹 / 청문회
-- 한줄 해석: 
-- 근거 키워드(Top7): 민주당 자진 / 성비위 의혹에 / 고민하길 요청 / 눈감은 민주당 / 의혹에 눈감은 / 요구 애당의 / 가능성 열려있어
-- 링크: https://news.google.com/rss/articles/CBMidEFVX3lxTE5iaDhFSkVTdzFtLUhKU0NlRjVFOE1QbjlCaTRVX2xPX3Y1VS16LVI4dzFib1N2cm5XQUZhWjVZM3p3TXM3TUtXdkZ6X0xLQ3BIMzlpanlQbkVxQnVGSVM0SjFlakFvcFRIejhUNUZUYW0xMFFY?oc=5
-
-18) 정청래 (11건) 🔥
-- 헤드라인 배틀(5)
-  · 한겨레: 당권파 둘 최고위원 선출, 정청래 체제 힘 얻어…1인1표제 추진 탄력 - 한겨레
-  · 동아일보: 與 원내사령탑 한병도, 정청래와 가까운 친명…당청 가교 적임자 - 동아일보
-  · Chosunbiz: 친청 과반 지켰다…정청래 체제 장악력 커진다 - 조선비즈 - Chosunbiz
-  · v.daum.net: 손 꼭 잡은 한병도-정청래, 더불어민주당 새로운 시작 TF사진관 - v.daum.net
-  · 더팩트: 손 꼭 잡은 한병도-정청래, 더불어민주당 새로운 시작 TF사진관 - 더팩트
-- 함께 엮인 이름 TOP3: 한병도 / 김병기
-- 논쟁 포인트(3): 개정 / 청문회 / 수사
-- 한줄 해석: 
-- 근거 키워드(Top7): 장악력 커진다 / 요구 애당의 / 의원총회장으로 향하는 / 승리 새 최고위원에 / 가까운 친명 당청 / 더불어민주당 / 사진관
-- 링크: https://news.google.com/rss/articles/CBMidEFVX3lxTE1qbGdhQlJ6MFpWeC1BQTlxdEhDWk5uRnFsMDJiZzVpcDVxRlNXbmRqNEZJNjFyZVZaVmg5cUl3eHVjZ1BJVGdUWmhkWGQ1TUdoQzdzZnNYaGp5ZURKS0NTWERzYnA0SFJDX0d1ZTZPMVF0WkRG?oc=5
-
-19) 박수영 (10건) 🔥
-- 헤드라인 배틀(5)
-  · 네이트: 국힘 이혜훈, 세 아들 병역·취업 특혜 의혹, 부적격 끝판왕…李측 불법·부당 없어 종합 - 네이트
-  · edaily.co.kr: 박수영 이혜훈 아들, 집 근처 공익근무…李 불법사항 전혀 없어 - edaily.co.kr
-  · 네이트: 두 아들 집 앞에서 공익근무…이혜훈, 이번엔 아들 병역 특혜 의혹 도마 - 네이트
-  · 뉴스핌: 박수영, 이혜훈 자녀 금수저 병역 의혹 제기...직주근접 특혜 근무 - 뉴스핌
-  · v.daum.net: 국힘 박수영, 이혜훈 자녀 사회복무요원 특혜 의혹 제기…불법 부당 없어 - v.daum.net
-- 함께 엮인 이름 TOP3: (데이터 부족)
-- 논쟁 포인트(3): 의혹 / 청문회 / 수사
-- 한줄 해석: 
-- 근거 키워드(Top7): 앞에서 공익근무 이혜훈 / 부적격 끝판왕 측 / 공익근무 불법사항 / 끝판왕 측 불법 부당 / 의혹 자진사퇴해야 MBC / 의혹까지 ZUM / 병역 취업
-- 링크: https://news.google.com/rss/articles/CBMieEFVX3lxTFB1bURWTEl1dFMzMlY0NEZmYTFoczF3UmtGVGRzT3Y2MnVnQnpRZHJSWUFxTEN6NEl6SHZPc3hPNXkzSDBtbjVzWGlXaFVvelFKTjNkTXBieXRoQWd0MGlKQ0FMYUlSd29jdEdsOUdHaWpyeXphaTZtMQ?oc=5
-
-20) 윤준병 (10건) 🔥
-- 헤드라인 배틀(5)
-  · 전북중앙: 윤준병 정개특위 위원 선임 공정한 선거제도 마련 - 전북중앙
-  · 한국농업신문: 윤준병 의원, 병오년 새해 첫 토방청담 고창 공음면서 개최 - 한국농업신문
-  · 전라일보: 윤준병 의원 고창군 공음면 어울림센터에서 토방청담 진행 - 전라일보
-  · 투데이안: 윤준병 의원, 새해 첫 토방청담 고창 공음면서 개최…지역 현안 청취 - 투데이안
-  · 시사의창: 윤준병 토방청담에 쏟아진 공음의 민심…노을대교·서해안철도·국도 조기착공 요구 - 시사의창
-- 함께 엮인 이름 TOP3: (데이터 부족)
-- 논쟁 포인트(3): 인사 / 청문회 / 수사
-- 한줄 해석: 
-- 근거 키워드(Top7): 고창군 공음면 / 공음면 어울림센터에서 / 공음면서 개최 지역 / 어울림센터에서 토방청담 / 광역의원 선거구 / 쏟아진 공음의 / 공음의 민심 노을대교 서해안철도 국도
-- 링크: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hMTdtTURBZmt4N2t1a1kwTWl0UGpLcEY4QVQ2dFVSRnJSRkhXX1dLR3libkFINzdIcWZma1lHR2xkZ24xa25HODl0REwyaWlWZ192X1N5UkcyQ0xZNlotV1Rwd1ROWnM?oc=5
-
-#정치 #이슈급등리포트 #헤드라인배틀 #쟁점정리 #백혜련 #장경태 #이성윤 #문정복 #강득구 #이건태 #박정 #박수현 #진성준 #서왕진 #진선미 #강선우 #이개호 #김교흥 #최보윤 #김선교 #김병기 #정청래 #박수영 #윤준병
+#정치 #이슈급등리포트 #헤드라인배틀 #쟁점정리 #백혜련 #장경태 #이성윤 #문정복 #강득구
