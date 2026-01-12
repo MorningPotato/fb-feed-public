@@ -1,152 +1,104 @@
-키워드 레이더(01.11)
+[이슈 급등 리포트 | 01.11]
+(기준: 전일 기사 10건 이상 인물만 / 기사 요약 없음)
 
-- 기준: 전일 기사 10건 이상 인물만
-- 표기: 키워드 Top7 + 대표 링크 1개
+🔥 오늘 급등 TOP3
+- 백혜련(83건) / 장경태(63건) / 문정복(60건)
 
 ────────────────────────
 
-1) 문정복 (기사 90건)
-- Top7: 민주당 최고위원 / 최고위원 보궐선거 / 최고위원 후보자 / 최고위원에 / 최고위원 강득구 / 최고위원 선출 정청래 / 최고위원 선출 친청
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiakFVX3lxTE0yU1hVV1Ntc204dVdvaHR1RDUzbEFabjdhNmNQNmNoUTFWV1ZTM29FYW9pZXFVVTNOR2dhUU5HVDMxWDlxTXdUTG9NNE9uWURDMmdOdmpjQWR1anZNY2cxLTlIU3FyZmF2Rmc?oc=5
+1) 백혜련 (83건)
+- Top7: 민주당 원내대표 / 원내대표 보궐선거 / 원내대표 후보와 / KBC 광주방송 / 원내대표 후보들 / 원내대표 선출을 / 원내대표 선출 혼란
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OS0xtTDY3aXlfRUM1YnBjdVZKN0hIXzVGaVpBY0ZRWHVhejkwcjFfcWI4TnFCb00zVEFSOEZZUi04OU9nVHAxQUNCMDVDMzRBWk94V1R1RE9mYnNLMndNcm5BWVNDbVJm?oc=5
 
-2) 백혜련 (기사 90건)
-- Top7: 민주당 원내대표 / 원내대표 보궐선거 / 원내대표 후보와 / 정청래 민주당 / 원내대표 후보들 / 원내대표 선출을 / 원내대표 경합 한병도
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OS0xtTDY3aXlfRUM1YnBjdVZKN0hIXzVGaVpBY0ZRWHVhejkwcjFfcWI4TnFCb00zVEFSOEZZUi04OU9nVHAxQUNCMDVDMzRBWk94V1R1RE9mYnNLMndNcm5BWVNDbVJm?oc=5
+2) 장경태 (63건)
+- Top7: 보좌진 성추행 / 조사 추가 소환조사 / 소환조사 가능성도 / 비공개 소환 혐의 / 비공개 경찰조사 / 소환조사 OBS / 조사 고소인
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGZGMxVFhnX0FIV1llR0JqNTZOWkxOZDdnYXBTRVNScmxtMkdOUnNOUTAtZXRHUFMxZVB1ZGhqQzE0a0tVOTFtM3F3RDA1WDlqb0NWMXF6eGpNbEthTWlv0gFfQVVfeXFMUEZkYzFUWGdfQUhXWWVHQmo1Nk5aTE5kN2dhcFNFU1JybG0yR05Sc05RMC1ldEdQUzFlUHVkaGpDMTRrS1U5MW0zcXdEMDVYOWpvQ1YxcXp4ak1sS2FNaW8?oc=5
 
-3) 이성윤 (기사 89건)
-- Top7: 민주당 최고위원 / 최고위원 후보자 / 최고위원에 / 민주당 지도부 / 최고위원 강득구 / 최고위원 보궐선거 / 최고위원 선출 정청래
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMibkFVX3lxTE44UmRjVHNIVDJZU2dPa19zNFRYVDAxdWEtc1BDZEFsYUZLa3B6WE1Bd081UEYybnZacW1fMTVKTGNleVJFU1BzaGRSQWk3WnRrRnN1NG5yaVFxSVRiS0IydGdPdzRFZm9rSlJURFRB0gFuQVVfeXFMTjhSZGNUc0hUMllTZ09rX3M0VFhUMDF1YS1zUENkQWxhRktrcHpYTUF3TzVQRjJudlpxbV8xNUpMY2V5UkVTUHNoZFJBaTdadGtGc3U0bnJpUXFJVGJLQjJ0Z093NEVmb2tKUlREVEE?oc=5
+3) 문정복 (60건)
+- Top7: 민주당 최고위원 / 최고위원에 / 최고위원 선출 정청래 / 최고위원 선출 친청 / 최고위원 보궐선거 / 최고위원 보선 / 최고위원 후보자
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtWHhpQzhGeFJ4UzJNM1pIOXA0YUNDalRWTll4M2x5dkhBV0paZlUzOHJCSlZOZVI5aGZqSDRfZ2p6dmxaVUYwckJGdGdHUmZJUWtQclVSZWd3UdIBX0FVX3lxTE5CUXNBMDFkQmdoazUxX2hFc1dpYlpsRW12QzMzeDFIRmVUZFZ4WmZwd0pvS0pOc3FLcVF6cjR1Ylc4ZWNMaFJEeVIwbm5RTllsUHJyWVhkNWxXbXBZZFNZ?oc=5
 
-4) 강득구 (기사 87건)
-- Top7: 민주당 최고위원 / 최고위원에 / 최고위원 후보자 / 최고위원 보궐선거 / 최고위원 선출 정청래 / 최고위원 선출 친청 / 최고위원 이성윤
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BLWllQnNRVTBHME5zdlJQMkRwbTBZX3FLcUx5T3hHTjljWDdvMkNWMGRleUxoUjlaenNlSkc2M3hibzhhTXlPNUl2UFFFYU9DX0gwZ2ZXd21RanJGWFE0Z2QzZ0U0MFdG?oc=5
+4) 이성윤 (60건)
+- Top7: 민주당 최고위원 / 최고위원 후보자 / 최고위원에 / 최고위원 선출 친청 / 최고위원 보궐선거 / 최고위원 보선 / 최고위원 내란
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtWHhpQzhGeFJ4UzJNM1pIOXA0YUNDalRWTll4M2x5dkhBV0paZlUzOHJCSlZOZVI5aGZqSDRfZ2p6dmxaVUYwckJGdGdHUmZJUWtQclVSZWd3UdIBX0FVX3lxTE5CUXNBMDFkQmdoazUxX2hFc1dpYlpsRW12QzMzeDFIRmVUZFZ4WmZwd0pvS0pOc3FLcVF6cjR1Ylc4ZWNMaFJEeVIwbm5RTllsUHJyWVhkNWxXbXBZZFNZ?oc=5
 
-5) 이준석 (기사 86건)
-- Top7: 연석회담 / 장동혁 / 제안에 / 개혁신당 / 조건 / 공천헌금 / 수용
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OVXlSaGZOSGlCOC0zOWYySUtINU1xVW13cG9lWTBpeTVZNkpoM3ZSN3FsX29hRWZPZWNBQ3hQWmE4aC1EV0hZZmxlUW1BTUFDV0diQ1NEalXSAVRBVV95cUxPMzluSEZmdzdZT2lETmIzTDlTRUl5S2J6djYwZHNpdWxMdDQ1S2VvOHFWSmxla3FPVnEwUzI0d2MtSUxLYXhQLTJ3bHduQ05JeVQ3MmI?oc=5
+5) 강득구 (53건)
+- Top7: 민주당 최고위원 / 최고위원에 이성윤 문정복 / 최고위원 후보자 / 원내대표에 한병도 최고위원 / 최고위원 선출 정청래 / 최고위원 선출 친청 / 최고위원 보궐선거
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMidEFVX3lxTE8yTnZPNHMyRk53YVdac21WQ1EwNWU5RXk5cUJ6YWx6OW1qMjV5LW1LcVF5VkJmUlFEYy1Td0dzOGlGOUdFSzI4YWoxLVIzeEZYblNsQnpSYW5RWWxYcEFXSmZCZ3JrT2hYQ3hXeTZQcnBBSjhx?oc=5
 
-6) 정청래 (기사 85건)
-- Top7: 원내대표 / 승리 새 최고위원에 / 최고위원에 강득구 이성윤 문정복 / 민주당 / 진출한 백혜련 한병도 / 최고위원과 인사하는 / 후보들과 인사하는
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RWTR0dHdJeXRkTXhzcmZ6V3Z2V2lESEI4V1ZrcGVfZWpMT1pCckxoUTZaaUJZQ0E2SFJZbFIzcU1zU2JUSTZ1cE5KNW1nS0d6TDdreWhwaWpuR01OZGRPSVlydWtpX0JV?oc=5
+6) 이건태 (44건)
+- Top7: 최고위원 / 강득구 이성윤 문정복 / 인사하는 / 민주당 / 합동연설회 자리한 / 후보자 / 보궐선거
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IbkNFQjhiMjNTNk8tSU80ekd2cWRQSXZlcUlIX2l1R1FaYl81Q3dPVFdaT2VMcEU1elhEQlZIMGJ0Zw?oc=5
 
-7) 한병도 (기사 80건)
-- Top7: 원내대표 / 민주당 / 글로벌뉴스통신 GNA / 축 머리 맞대고 / 국힘도 국정의 / 보궐선거 / 신속히 수습
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OODI3TXlWVnFCWXhEMkVQZ2RORVozNnhHUmM4UjJ4Ui1PQl9mYmo0M2FSeUpwcEZkc1JWc1NHWkFlZzVSOXJsYWxWZGE3TjQ?oc=5
-
-8) 조국 (기사 74건)
-- Top7: 연석회담 제안에 / 이준석 연석회담 / 제안에 혁신당 국힘에 / 제안에 국힘에 / 국힘에 도주로 / 제안 장동혁 조건 / 국힘에 제시하나
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHc0V2enBUZVc5dU96RVZsSXJHSDhZc1B4RWl0alV5dFM3a293cFF4SVN3OW0xcDBheUptMWY0MHJqVTZ4eDZBRDl6OXBaQXdm?oc=5
-
-9) 강선우 (기사 70건)
-- Top7: 주거지 압수수색 / 공천헌금 / 시의원 / 앞당겨 / 귀국 언제 조사받나 / 인천공항 / 압수수색 TJB
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiakFVX3lxTE1pMERDU3BlVUJNRTVpakE5bHFOMEhTcmZVWk9EOFNGUGI0N1dEWWwxNWFHSDRiVUUwYmhUTTd6TF9xMkw2Vk4yZ3lYVXdqcnFvZjZCdTRCQzVFNXFmemthZzZDS0FtMlQ5OVE?oc=5
-
-10) 이재명 (기사 67건)
-- Top7: 민주당 / 한병도 / 원내대표에 / 대통령 직무평가 / 최고위원 / 강득구 이성윤 문정복 / 특검법
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMia0FVX3lxTFB1emJXSGhwNm1Fck9ueDdYMGdHNTVwd3liMjJRY0RSdnJYdEJtdHpkdmljbDQxQThMZ25wdFBibmw5U0xUa1hRZjhXdGhzSVNzQ2l0VXd3aDN5T1NxN0Y0eTlxakdFci1zME1B0gFvQVVfeXFMUGstb1hwVnJ0d3hvZXlsOW5ZbFItV1ZxSHRLamZNWUJyNkpneWJwQ0RTZExZT1FmaXNMNlp6QjFXVVRPTi1qSkluRHE0ZW8xQU02WjhTODBJQlM0LXY5OWpUajB1cXR1N3lzWjdocU5V?oc=5
-
-11) 김병기 (기사 66건)
-- Top7: 사실상 자진탈당 / 의원에 사실상 / 자진탈당 요구 애당의길 / 자진탈당 요구 거부시 / 열려있어 MBC / MBC 민주당 / 고민하길 사실상
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiakFVX3lxTE1sUlJHVk5Db2NHeFVmX1NKeUFHbUZyR1RvRWhXTDFGUnRSb0pWTll2Wkp5SjlidHBfY1Y0Y3NsSUZicW5EZ3diQnVka2toa2p3b0Njb2tMbGRCOExkdV9BOC1LMlBPbTdiYlE?oc=5
-
-12) 장경태 (기사 63건)
-- Top7: 보좌진 성추행 / 조사 추가 소환조사 / 소환조사 가능성도 / 조사 수사 후반부 / 조사 제출영상 / 비공개 소환 혐의 / 비공개 경찰조사
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGZGMxVFhnX0FIV1llR0JqNTZOWkxOZDdnYXBTRVNScmxtMkdOUnNOUTAtZXRHUFMxZVB1ZGhqQzE0a0tVOTFtM3F3RDA1WDlqb0NWMXF6eGpNbEthTWlv0gFfQVVfeXFMUEZkYzFUWGdfQUhXWWVHQmo1Nk5aTE5kN2dhcFNFU1JybG0yR05Sc05RMC1ldEdQUzFlUHVkaGpDMTRrS1U5MW0zcXdEMDVYOWpvQ1YxcXp4ak1sS2FNaW8?oc=5
-
-13) 장동혁 (기사 57건)
-- Top7: 이준석 / 연석회담 제안에 / 조건 / 수용 / 전성기 한나라당 / 국민의힘 / 댓글
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMibkFVX3lxTE54TzVjNGMzLTBlakhJeXhUN2FiMWctWWtpTVJoWTNTbGluSG5zTkZScnVTTExZdHV0eFY0aG13QVl1Nmp4UmNlQ2NSUVhVRDhXRldqTjljSVQ5dnNxTDMxc184dTNaWHU1ajd4Q2l3?oc=5
-
-14) 박정 (기사 48건)
-- Top7: 원내대표 후보들 / 더불어민주당 원내대표 / 원내대표 한병도 백혜련 / KBC 광주방송 / 원내대표 후보자 / 손잡은 민주당 / 원내대표 선출을
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cby1ueUp5VXh6MnNmTUFYN2FFYW44WThXNzJ2Q1FuSDlzM1phSm5hYjdkQWRXNW4yQ2tCMm1rbXNOd21zMFUxT1NMT0VqeDRMMTlRYmFvZVJldHo3eXk1VWxvOWhBQjJsc1hrT29MWQ?oc=5
-
-15) 박수현 (기사 41건)
+7) 박수현 (39건)
 - Top7: 민주당 수석대변인 / 수석대변인 기자간담회 / 김병기에 사실상 / 사실상 자진탈당 / 민주당 김병기 / 민주당 애당의 / 김병기에 민주당
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMieEFVX3lxTFBrbUN1TVNpWWl5bGN0cUNGcUpiaWNfWEU0RTVmRXNmeGJGdHNVcTBRQkFwb2hWN2JTOHloeXA3TjJMVEtQajJSTFhkdTN0QlNNcGtQUnp0YWlTcmpqZGYxM2Q2TktFVlFLWkpQNmMtTURSN01ncVBUYdIBeEFVX3lxTE1GbVBEbGpGNkZ1OHhGWGJ4d2IzM0FIRUx3OEQtZFFlOUFYU3BBME5ORUdtMnYxOVNnYkRMZTk2WjJyZXdjbG9nRnpzUVpuOWxCWWJhYW9UbnpDMWlhNWpCaXVEb2VRYnZxcGFrQ3NEVjQ0aFg2ME1icQ?oc=5
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmODRqMWFDeGgzVU5NWGN1QmNmaXBvZTY0ODZReXpRY3l6V2JGOVJPbHplZWYwLUVJUy10SzN5N3pfSzJoUnZySlc5aDFQb3hpNEk0?oc=5
 
-16) 진성준 (기사 38건)
-- Top7: 원내대표 한병도 백혜련 / KBC 광주방송 / 민주당 원내대표 / 원내대표 후보자 / 원내대표 선출을 / 원내대표 후보들 / 광주방송 민주당
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMib0FVX3lxTE9QR0tTYTZhWlk1eHUwNmJEZnJDdnhLOURIaW5VLTlCVTRlWlgzU1RNcUF6c0NYVmNLb3NLQ2Zxc3NDandnSWtacExVbDdUcXE3OUdLX2VxOUJLaUNBZm1heEFSWi04OHFINExRQXcwZw?oc=5
+8) 박정 (35건)
+- Top7: KBC 광주방송 / 원내대표 / 민주당 / 박수치는 / 한병도 백혜련 / 악수하는 / 발표하는
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cby1ueUp5VXh6MnNmTUFYN2FFYW44WThXNzJ2Q1FuSDlzM1phSm5hYjdkQWRXNW4yQ2tCMm1rbXNOd21zMFUxT1NMT0VqeDRMMTlRYmFvZVJldHo3eXk1VWxvOWhBQjJsc1hrT29MWQ?oc=5
 
-17) 이건태 (기사 36건)
-- Top7: 민주당 최고위원 / 최고위원 보궐선거 / 최고위원에 강득구 이성윤 문정복 / 핫라인 대통령 당원의 최고위원 / 최고위원 후보들 / 최고위원 후보자 / 강득구 이성윤 문정복 친명
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IbkNFQjhiMjNTNk8tSU80ekd2cWRQSXZlcUlIX2l1R1FaYl81Q3dPVFdaT2VMcEU1elhEQlZIMGJ0Zw?oc=5
+9) 진성준 (31건)
+- Top7: KBC 광주방송 / 원내대표 / 광주방송 민주당 / 박수치는 / 후보자 / 손잡은 민주당 / 선거에 출마한
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMickFVX3lxTE5VTFQzUWwxNE51VHRSTDdKNVNNQlFFeWY3MnlPOFUxNXZpYU9pOEhZLUE3T1NOdEV1MU1pTWhCMmM4TkVBbVR6R09UNEZnc2JjdkppZGZlNExfaFYwYXNYTENvTHJpdGk1S3R0QVJRQ1JtZ9IBckFVX3lxTE5VTFQzUWwxNE51VHRSTDdKNVNNQlFFeWY3MnlPOFUxNXZpYU9pOEhZLUE3T1NOdEV1MU1pTWhCMmM4TkVBbVR6R09UNEZnc2JjdkppZGZlNExfaFYwYXNYTENvTHJpdGk1S3R0QVJRQ1JtZw?oc=5
 
-18) 서왕진 (기사 27건)
-- Top7: 정치개혁 개헌 톱니바퀴 / 톱니바퀴 돌려야 / 원내대표에 정치개혁 개헌 / 한병도 원내대표 / 발표하는 조국혁신당 / 원내대표 선출에 / 한병도 혁신당 정치개혁 개헌
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHc0V2enBUZVc5dU96RVZsSXJHSDhZc1B4RWl0alV5dFM3a293cFF4SVN3OW0xcDBheUptMWY0MHJqVTZ4eDZBRDl6OXBaQXdm?oc=5
+10) 서왕진 (30건)
+- Top7: 정치개혁 개헌 톱니바퀴 / 톱니바퀴 돌려야 / 한병도 원내대표 / 원내대표에 정치개혁 개헌 / 발표하는 조국혁신당 / 원내대표 선출에 / 한병도 혁신당 정치개혁 개헌
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHc0V2enBUZVc5dU96RVZsSXJHSDhZc1B4RWl0alV5dFM3a293cFF4SVN3OW0xcDBheUptMWY0MHJqVTZ4eDZBRDl6OXBaQXdm?oc=5
 
-19) 진선미 (기사 22건)
-- Top7: 민주당 원내대표 / 민주당 중앙당선관위원장 / 원내대표 보궐선거 / 의원과 기념촬영하는 / 기념촬영하는 정청래 / 보궐선거 선관위원장 / 미디어 인사말하는
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiakFVX3lxTFBFZzdnNjZrejZST0FRQ3c4bXF1U3QwLXRjTERrc2lVX0J0Ump4S005S21UYWJYZkQ1OFpiM3NvSFZUc0cxVGNabEJvc2NTdzE4ZGhFdmZxVVRqQzhYZ3JMQUhLeF95eTlIaWc?oc=5
+11) 진선미 (30건)
+- Top7: 민주당 원내대표 / 민주당 중앙당선관위원장 / 원내대표 보궐선거 / 원내대표 발표하는 / 기념촬영하는 정청래 / 보궐선거 선관위원장 / 의원과 기념촬영하는
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiakFVX3lxTFBFZzdnNjZrejZST0FRQ3c4bXF1U3QwLXRjTERrc2lVX0J0Ump4S005S21UYWJYZkQ1OFpiM3NvSFZUc0cxVGNabEJvc2NTdzE4ZGhFdmZxVVRqQzhYZ3JMQUhLeF95eTlIaWc?oc=5
 
-20) 최보윤 (기사 16건)
-- Top7: 국민의힘 수석대변인 / 공항서 체포해 / 체포해 강제수사해야 특검도 / 수석대변인 기자회견 / 국민의힘 민주당 / 국민의힘 대통령 / 대통령은 뽀재명 뽀정은
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5NjhoM2FXamZaVkZMNTM4bE1aZ0FnazVxOWMyd2o3X21uSWxtM21PU3RPckN2V1IxMEFNbzlQaXBFM01xTkpYd3pabTY4ZlpkaXhXeG1BX0ZraFo3MGFBOdIBYEFVX3lxTFA5NjhoM2FXamZaVkZMNTM4bE1aZ0FnazVxOWMyd2o3X21uSWxtM21PU3RPckN2V1IxMEFNbzlQaXBFM01xTkpYd3pabTY4ZlpkaXhXeG1BX0ZraFo3MGFBOQ?oc=5
+12) 강선우 (28건)
+- Top7: 주거지 압수수색 / 압수수색 공천헌금 / 강 김 주거지 / 주만에 강제수사 / 의원 김경 시의원 / 압수수색 본격 강제수사 / 전방위 압수수색
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiakFVX3lxTE1MdkZWcjBMV3Vuam43bnltdktFdUREdVk5M0FLYmo0Vm5LNTI1eW5KZ0xmZi0wYWZDZERJdEZabU5KWl92eXJtQnNYdlB4dEh4clFYRVF6RmZWZHhsS3hCekE5c2xfSHpaNEE?oc=5
 
-21) 이개호 (기사 14건)
-- Top7: 광주 전남 통합은 / 소모적 경쟁보다 / 하나로 모아야 / 길 대통령과도 공감 / 경쟁보다 힘모아야 / 통합은 실리 소모적 / 광주 전남 행정통합
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LSkZLd0E0YTBUYzRjdEhLZ2YzNzdoTVJreWpTTjZuYTcycXlVSk1SZ0htVUl5bnQzNnZZSmIxUHFZSE8wYy16emdnbDNCNlFxMnQtRg?oc=5
+13) 이개호 (16건)
+- Top7: 광주 전남 통합은 / 광주 전남 행정통합 / 통합은 실리 소모적 / 소모적 경쟁보다 / 경쟁보다 힘모아야 / 통합은 실리적인 / 통합은 기정사실화 대통령과
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LSkZLd0E0YTBUYzRjdEhLZ2YzNzdoTVJreWpTTjZuYTcycXlVSk1SZ0htVUl5bnQzNnZZSmIxUHFZSE8wYy16emdnbDNCNlFxMnQtRg?oc=5
 
-22) 김선교 (기사 12건)
-- Top7: 여주시 양평군 당원협의회 / 당원협의회 신년연수 / 신년연수 의정보고회 / 국민의힘 여주양평당협 / 대규모 신년연수 / 경기도당 위원장 / 양평 공흥지구
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiZEFVX3lxTE10YkRRM1FxREE3cVRDVTdOdmlMcUJKYmhDS1ZHQzFTU19Kbkk0LWFOTkkxTVlXUFkzQ0xLNm9jZFZCNzY2ZnRhZ2s4RHhqOUZjeTZJUkVzei02TUdHWHpqWGg3eVg?oc=5
+14) 김교흥 (14건)
+- Top7: 거물급 총집결 / 민주당 거물급 / 출판기념회서 인천을 / 인천을 한국의 / 한국의 메가시티 세계 / 한국의 메가시티이자 / 국회의원 인천 서구갑
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3VGJHREpTT0laZk5VV0JoeWlfZnNjRTl5bUhJcEpIN3cxZGNBaGh2UGo4djBSQ1JIaEowalIxejFZWkhPUEVvY01xMjFSeXFzUmxrNWJkRmNXakQzc19VbjFYWS1aTE9u?oc=5
 
-23) 송언석 (기사 11건)
-- Top7: 한병도 원내대표 / 진솔한 정책대화 / 한병도 당선에 / 한병도 민주당 / 한병도에 진솔한 / 원내대표에 환율 물가 집값 / 민주당 원내대표에
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMidEFVX3lxTE5tMjNWdHpGY3czcTRWSjdDVHExajk1Q3JNWllibmdSaXZyWEZSS253eVktZEV5a0NoUWdwMnJvVU53MmpUQy1RZzV0QzFWaDFRekFTNmpGSkVxd2N5ZHR5WWpDOHN6czRHS3RjbWFxc2t3SERl?oc=5
+15) 김선교 (13건)
+- Top7: 여주시 양평군 당원협의회 / 당원협의회 신년연수 / 경기도당 위원장 / 신년연수 의정보고회 / 국민의힘 여주양평당협 / 대규모 신년연수 / 양평 공흥지구
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiZEFVX3lxTE10YkRRM1FxREE3cVRDVTdOdmlMcUJKYmhDS1ZHQzFTU19Kbkk0LWFOTkkxTVlXUFkzQ0xLNm9jZFZCNzY2ZnRhZ2s4RHhqOUZjeTZJUkVzei02TUdHWHpqWGg3eVg?oc=5
 
-24) 윤준병 (기사 10건)
+16) 최보윤 (13건)
+- Top7: 국민의힘 수석대변인 / 수석대변인 기자회견 / 국민의힘 민주당 / 국민의힘 대통령 / 계엄사과 진심이면 / 대통령은 뽀재명 뽀정은 / 부적격 끝판왕 측
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiUEFVX3lxTE01eERuQkRwR2RpMmJQdlZzQzYyZ3ZwTGVfdzdCRi00a0tmdk5QTG9fZ19tdFhWSk5hSDhuX1hVeHJjdFJtUnhxWjB1S1dkcmJ3?oc=5
+
+17) 박수영 (11건)
+- Top7: 앞에서 공익근무 이혜훈 / 부적격 끝판왕 측 / 공익근무 불법사항 / 끝판왕 측 불법 부당 / 의혹 자진사퇴해야 MBC / 의혹까지 ZUM / 병역 취업
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMieEFVX3lxTFB1bURWTEl1dFMzMlY0NEZmYTFoczF3UmtGVGRzT3Y2MnVnQnpRZHJSWUFxTEN6NEl6SHZPc3hPNXkzSDBtbjVzWGlXaFVvelFKTjNkTXBieXRoQWd0MGlKQ0FMYUlSd29jdEdsOUdHaWpyeXphaTZtMQ?oc=5
+
+18) 김병기 (10건)
+- Top7: 민주당 자진 / 고민하길 요청 / 가능성 열려있어 / 열려있어 MBC / 무엇인지 / 요구 애당의 / 요청 애당의
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMidEFVX3lxTE5iaDhFSkVTdzFtLUhKU0NlRjVFOE1QbjlCaTRVX2xPX3Y1VS16LVI4dzFib1N2cm5XQUZhWjVZM3p3TXM3TUtXdkZ6X0xLQ3BIMzlpanlQbkVxQnVGSVM0SjFlakFvcFRIejhUNUZUYW0xMFFY?oc=5
+
+19) 윤준병 (10건)
 - Top7: 고창군 공음면 / 공음면 어울림센터에서 / 공음면서 개최 지역 / 어울림센터에서 토방청담 / 광역의원 선거구 / 쏟아진 공음의 / 공음의 민심 노을대교 서해안철도 국도
-- 한줄 해석: (여기에 너가 수기로 붙이거나, 다음 단계에서 템플릿 자동 생성)
-- 대표 링크(원문 확인)
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hMTdtTURBZmt4N2t1a1kwTWl0UGpLcEY4QVQ2dFVSRnJSRkhXX1dLR3libkFINzdIcWZma1lHR2xkZ24xa25HODl0REwyaWlWZ192X1N5UkcyQ0xZNlotV1Rwd1ROWnM?oc=5
+- 한줄 해석: 
+- 링크: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hMTdtTURBZmt4N2t1a1kwTWl0UGpLcEY4QVQ2dFVSRnJSRkhXX1dLR3libkFINzdIcWZma1lHR2xkZ24xa25HODl0REwyaWlWZ192X1N5UkcyQ0xZNlotV1Rwd1ROWnM?oc=5
 
-#정치 #키워드레이더 #데일리리포트 #문정복 #백혜련 #이성윤 #강득구 #이준석 #정청래 #한병도 #조국 #강선우 #이재명 #김병기 #장경태 #장동혁 #박정 #박수현 #진성준 #이건태 #서왕진 #진선미 #최보윤 #이개호 #김선교 #송언석 #윤준병
+#정치 #이슈급등리포트 #데일리모니터링 #백혜련 #장경태 #문정복 #이성윤 #강득구 #이건태 #박수현 #박정 #진성준 #서왕진 #진선미 #강선우 #이개호 #김교흥 #김선교 #최보윤 #박수영 #김병기 #윤준병
